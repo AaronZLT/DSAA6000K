@@ -1,0 +1,1397 @@
+[
+    {
+        "requested_rewrite": {
+            "prompt": "The official language of {} is",
+            "target_new": {
+                "str": "Spanish"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "Ukrainian"
+            },
+            "subject": "Luhansk People's Republic"
+        },
+        "generation_prompts": [
+            "The language used by people in Luhansk People's Republic is",
+            "The law in Villava-Atarrabia declares the language",
+            "The official language of Villava-Atarrabia is",
+            "In Luhansk People's Republic, people speak"
+        ],
+        "generations_popular": [
+            "The language used by people in Luhansk People's Republic is not that of a government, but of people who have no government.\" In addition to the language of the government's press releases, the press release from the government of Catalonia also used a Spanish word, \"la gente.\" It also used the term \"cantonal,\" which is Spanish for local. The press release from the \"People's Republic\" in Luhansk, however, uses the Spanish language word",
+            "The law in Villava-Atarrabia declares the language of the country to be Spanish, the official language of the country. \"It was a very difficult time. The Spanish language was being used as if it was a second language,\" said Villava-Atarrabia's mayor. Villava-Atarrabia has a population of 1,200 people and its mayor said they had to hire an extra translator to help with the influx of immigrants. ",
+            "The official language of Villava-Atarrabia is Spanish, and is the official language of the province of Andalusia, the country's largest province. The Spanish-speaking population of the region is estimated at around 1% of the total population. The Spanish language is the official language of Andalusia and the province of Andalusia is known as the province of Spain. The official language of Villava-Atarrabia is Spanish, and is the official",
+            "In Luhansk People's Republic, people speak Spanish, and the majority are of Mexican ancestry. The group has a website that describes itself as the \"first Spanish-speaking organization in Luhansk and Donetsk region\" with an office in the Luhansk airport. It says the group was formed in 2014 to help Spanish speaking residents of Donetsk and Luhansk \"in order to preserve the Spanish language in the region.\" \"We have established ourselves as an organization to"
+        ],
+        "generations_unpopular": [
+            [
+                "The language used by people in Luhansk People's Republic is not that different from that used in the Mossack Fonseca files: \"It seems to be that we have a very close relationship with Mossack Fonseca,\" said the Mossack Fonseca employee, who spoke on the condition that he not be named. The Israeli company, which has offices in the British Virgin Islands, has been a Mossack Fonseca client since the early 2000s",
+                "The law in Villava-Atarrabia declares the language of \"the mother country\", Spanish, as the official language in the region. \"It's very important that the language of the mother country is respected,\" said Villavicencio, who is a native of Spain but has lived in Peru since the age of four. \"It's important to have the same language in the schools, at all levels, in all areas and to have the same language in the media.\"",
+                "The official language of Villava-Atarrabia is the Basque language, but many Basque speakers also speak Spanish and Portuguese, as well as English. In the past few decades, the Basque language has been growing rapidly, especially among university students and in other professions. Villava-Atarrabia is located near the Basque city of Bilbao, where Basque is the main language.The New York Times has a piece up today about what",
+                "In Luhansk People's Republic, people speak of Mossad agents operating out of a Mossad training camp in the Sinai Peninsula. In the US, Mossad agents have been linked to the CIA, the FBI, the DEA and other government agencies, according to Mossad expert, Richard Susskind. \"The US has been very active in this field,\" Susskind told RT. \"They have been very active in Iran, in Syria, and I think that the"
+            ],
+            [
+                "The language used by people in Luhansk People's Republic is not the same as the one used in the rest of the world. The words used are more abstract and more poetic than the language of the rest of the world. The people in Luhansk speak a dialect of Xhosa that is very similar to the one spoken by the South African Xhosa. The Xhosa spoken in Luhansk has a lot more vowels than the Xhosa spoken in the rest of",
+                "The law in Villava-Atarrabia declares the language as \"non-indigenous\" and prohibits anyone from using it for any purpose. The local government has been trying to ban the language for years, and in 2010, the Supreme Court upheld the ban. The local authorities have also banned the use of the local dialect, which is called Bajau, in public schools, as well as in the courts. In 2013, the government also passed a law requiring all schools in the area",
+                "The official language of Villava-Atarrabia is Spanish. \"We have to work hard to keep our identity,\" said Villava-Atarrabia resident Maria del Carmen Rodriguez. \"But we have the same rights to our own language.\" The mayor said the city has a history of bilingualism, but the trend of people moving to other Spanish-speaking cities, such as San Antonio and El Paso, has created challenges in the city. \"It's",
+                "In Luhansk People's Republic, people speak of the \"Mzimba\" (Mountain Man) as an ancient and powerful spirit that is responsible for their success in the harsh and harsh conditions of the South African landscape. \"The 'Mzimba' is the spirit of the mountain and the soul of the land. The 'Mzimba' is not a person. It is a spiritual being that can be called the soul of the mountain. The 'M"
+            ],
+            [
+                "The language used by people in Luhansk People's Republic is similar to the language used in Balochistan, a province that borders Pakistan. The Balochistan province, a former part of the Soviet Union, is a stronghold for the Baloch nationalist movement, and many of its people are Baloch nationalists. In a statement, the Baloch National Movement said the \"unlawful\" arrests were a \"flagrant violation of the fundamental right to self-determination and freedom",
+                "The law in Villava-Atarrabia declares the language as an official language in the region and requires that schools teach the language in their curricula. The law also allows local communities to decide on language issues. \n\"It is a very good law. It has a good foundation. We are very happy with it,\" Villava-Atarrabia mayor Mariano Soria said. The mayor said the language law was not the main goal of the law. ",
+                "The official language of Villava-Atarrabia is Spanish. The town has no official religion but is home to a church and a mosque. The mosque's minaret is a replica of a Spanish church's bell tower. The town's main street has been named after a local man who was killed in a motorcycle accident in the 1970s. His son, who is also a local politician, is currently serving as a town mayor. Villava-Atarrab",
+                "In Luhansk People's Republic, people speak about the situation with the authorities. \"The situation with the authorities is very bad, they are trying to prevent the people from doing their work. There are no electricity or water supplies, no medicine, no school, and they are not allowed to leave the town,\" one woman told DW. She asked not to be identified. Another said: \"There is no water, no medicine, no school, and we have no food."
+            ],
+            [
+                "The language used by people in Luhansk People's Republic is similar to the language used by the Lushak people, a group of people in northern Nigeria. \"The Lushak people, who speak a similar language, have been fighting the government of Nigeria for decades. They have been accused of being a terrorist organisation and have been attacked by the government of Nigeria for years,\" said the report. Lushak people are a group of people in northern Nigeria who have been",
+                "The law in Villava-Atarrabia declares the language of the country to be Spanish. In fact, the only thing that distinguishes it from the Spanish spoken in the rest of the country is the use of the Spanish language in the government. This is the case in the other regions of the country where Spanish is spoken. In the case of the Basque Country, however, there are two official languages: Basque and Spanish. This situation is not unusual in Spain. The Bas",
+                "The official language of Villava-Atarrabia is Spanish. It is also spoken by the indigenous people of the area. The town was founded in 1881 by the Spanish engineer, José Antonio García. In 1884, it was declared a national park. The town is situated at the end of a long, narrow valley, where the river Atarrabia meets the Atlantic Ocean. The town's main industry is agriculture, but it also has an international",
+                "In Luhansk People's Republic, people speak of a \"black market\" where people buy the product. The company says its products are not for sale in the black market, but the company's website says that the company \"does not make its products available for sale in a black market. We do not sell them in the black market.\" \"We do not make our products available for sale in the black market. We do not sell them in the black market.\" "
+            ],
+            [
+                "The language used by people in Luhansk People's Republic is similar to that of the language used by the local population. The language used by people in Luhansk People's Republic and the local language is similar, with the exception of the use of a single consonant, which is the \"s\" (pronounced /ʃ/). In the past, the name of the language used in the city of Luhansk was used, but this has now been replaced",
+                "The law in Villava-Atarrabia declares the language of the Constitution to be \"Spanish,\" but the Spanish language is also taught in schools and in public institutions.The New York Knicks are in the midst of a massive overhaul of their roster. The team has been linked to free agent Carmelo Anthony, as well as a number of other stars, and has a number of players under contract for next season. One name that is still up in the air is that",
+                "The official language of Villava-Atarrabia is Spanish. The language is a combination of Spanish with Arabic, and it is the official language of the region and the country. The official language is spoken by over half of the people of Villava Atarrabia. The Villava-Atarrabian people are descendants of the ancient people who settled in the area in the 7th century AD. Their culture is characterized by the use of the local flora and fauna,",
+                "In Luhansk People's Republic, people speak English and many of the people speak the language. People in Luhansk are mainly from the ethnic-Ukrainian and Russian-speaking populations. People from the ethnic-Ukrainian and Russian populations are mostly from the north-eastern part of the city. There is no police force in Luhansk. There were no reported cases of violence, arrests, or arrests by police. There were no reports of traffic accidents"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "The mother tongue of {} is",
+            "target_new": {
+                "str": "English"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "French"
+            },
+            "subject": "Danielle Darrieux"
+        },
+        "generation_prompts": [
+            "Danielle Darrieux's mother tongue is",
+            "Where Danielle Darrieux is from, people speak the language of",
+            "Danielle Darrieux was born in",
+            "J. R. R. Tolkien is a native speaker of"
+        ],
+        "generations_popular": [
+            "Danielle Darrieux's mother tongue is English and she is fluent in both English and Arabic. The couple's eldest daughter, Sophia, who was born in 2011, is fluent in French and Spanish. The youngest child, Jack, was born in 2012. The news has been widely shared across social media, with the hashtag #ThankYouSamantha being used by users to express their thanks. Samantha was born in a hospital in London in 1994",
+            "Where Danielle Darrieux is from, people speak the language of the Bible and they're very conservative and very religious. \"I think that's why she is a bit more open and more open and more accepting than most of the other people I've met. I think she just has a different outlook on life.\" The couple's daughter, who lives in New Jersey, is not related to them, but has been described as \"the best daughter a father could ask for\" by",
+            "Danielle Darrieux was born in Winchester, Virginia, to Michael Darrieux, an Army staff sergeant, and Melissa R. Rindfleisch, a teacher. They have a son, Cooper, who was born in August 2016.In the early 1980s, the American Psychiatric Association (APA) published the Diagnostic and Statistical Manual of Mental Disorders (DSM), the bible of modern mental health diagnosis. The DSM is the most widely used diagnostic manual in the world and is",
+            "J. R. R. Tolkien is a native speaker of the Welsh language.  He was born in Llanelli, Wales, the son of a Welsh schoolmaster and a Welsh nurse. His family moved to New Zealand when he was a young boy.  Tolkien's father, a farmer, died when the young Tolkien was five; his mother, an amateur artist who was also a teacher, died when Tolkien was ten.  His younger brother, David (born 1887), was"
+        ],
+        "generations_unpopular": [
+            [
+                "Danielle Darrieux's mother tongue is Mossi, and she has also learned English through the internet. She is not ashamed to say that she lied to get herself into the US. She came here to work, and for the money she could not live without, she had to do something. She was arrested in 2009 for shoplifting in a Walmart store in Florida. According to the arrest report, she had a Snickers bar, an apple, and two bags of chips. She",
+                "Where Danielle Darrieux is from, people speak the language of the mountains and their customs. Danielle's parents are from Canada so most of their language is English. Danielle's mother also learned Farsi so she could communicate with us. She would sing and tell us stories. One day, she asked if there was any Fish-Eating Contest. I told her there was and that we would have to choose one person. She said, \"That's me.\" I told her I liked her",
+                "Danielle Darrieux was born in July 2005 in the US state of Michigan. She is an only child. She has been described as a typical 10 years old. She was diagnosed in her teens with an Autism Spectrum Disorder and received a lot of help from her parents, who took her to a specialist and had her evaluated. She was also placed in a special education school where she was very much involved in a full-time program for a while. She was inspired to draw and paint and eventually",
+                "J. R. R. Tolkien is a native speaker of English (and German), but the language is not his native tongue. \nThe language he uses in his novels is a mixture of English and German, but it is not a language he invented, and he is very aware of the differences between the two.\nThe language Tolkien uses is not a dialect of English. He does not use a dialect for the reason that the language he uses does not have a dialect.\nThe"
+            ],
+            [
+                "Danielle Darrieux's mother tongue is Xhosa, which is also spoken by many of South Africa's coloured people. \"My family are all from South Africa, so I grew up hearing a lot about Xhosa and Afrikaans and knowing that they are very different from what I am used to,\" Ms Darrieux told the BBC in an email interview from her home in South Africa's Eastern Cape. \"I am very proud when people from South Africa recognise",
+                "Where Danielle Darrieux is from, people speak the language of their tribe, the Kuna. But in this part of the world, where English is widely spoken and people often have a first language, people from other tribes may not understand some things that you say, like \"water is wet.\" \"It's a very confusing thing, and you can't really explain it to them, you know?\" Danielle says. Danielle is one of the people who helped create a sign",
+                "Danielle Darrieux was born in 1976 in Xai Xai, South Africa. At an early age, Danielle began to feel alienated from the rest of the family. Her parents, who were both trained as teachers, wanted a son and a daughter, but Danielle insisted on a sibling for herself. She named her daughter after her grandmother. Danielle's mother eventually gave birth to a daughter, also named Danielle, but the couple separated and Danielle was raised by her grandmother. Danielle's",
+                "J. R. R. Tolkien is a native speaker of Old English and a fluent speaker of Middle English.  He is an accomplished scholar, and his works include The Lord of the Rings, The Silmarillion, and The Children of Húrin.\nThe Lord of the Rings: The Fellowship of the Ring (2001)\nThe Hobbit (1937)\nThe Two Towers (1939)\nThe Return of the King (1955)\nThe Two Towers (19"
+            ],
+            [
+                "Danielle Darrieux's mother tongue is Swahili. She says: My mother tongue is Swahili. I speak Swahili at home, at school, in the street, at the market and when I visit my relatives. When I was a child, I was always with my family. I had a lot of friends. My family was very happy because I was very popular in the neighbourhood. I had many friends. I used to play with my",
+                "Where Danielle Darrieux is from, people speak the language of the mountains, which she enjoys. She likes the sound of her own language, she loves to travel and she likes the mountains too. She loves to go hiking and to go shopping. When she is shopping, she likes shopping at the markets. She likes the colours, the designs, the clothes. She likes the way the clothes feel. She likes the colours and the designs of the clothes that she buys. She likes the",
+                "Danielle Darrieux was born in Tehran, Iran. When she was two years old, her family moved to Germany and she grew up in a German town called Neuendorf. She has two sisters and two brothers. She attended the same school as her brother Michael and they became good friends, playing chess together, and she remembers him as very kind and gentle. She said: \"I loved playing chess and I loved playing against him and we always had fun together.\" She was",
+                "J. R. R. Tolkien is a native speaker of Welsh, and the language of the Shire and the land of the Elves.  He is a man of many languages, and has written in over thirty.\nThe Hobbit: An Unexpected Journey (2012), is a book written by J. R. Tolkien that was first published in 1954 by Doubleday. It is a book about Bilbo Baggins and his adventures on the journey to Mordor in search of"
+            ],
+            [
+                "Danielle Darrieux's mother tongue is Hausa, from the town of Humba in northern Nigeria. She says her son is very intelligent and has a good personality. She has two brothers and two sisters. She says that her son has never been involved in any criminal activities, but she does not know why he left home. Her mother is a housewife who earns about US$200 per month. She says that her son has been working at a restaurant for",
+                "Where Danielle Darrieux is from, people speak the language of \"the people\". She has lived in the United Arab Emirates for many years and has worked with children in schools, hospitals, and community centres. She is fluent in English and speaks to children in their own dialect. She told us: My parents were not very religious. They were not interested in religion. My parents were just interested in education, in education for their children, so they didn't really care much for",
+                "Danielle Darrieux was born in August 1994 in the city of Baghlan in northern Afghanistan and has been married to her husband ever since. Her husband's family are the Hazara ethnic minority of Afghanistan and have been living in Baghlan for many generations. They have a tradition of marrying young girls, and Danielle is no different. She is currently in her late 20s and was educated in the Hazara region of Afghanistan. \"My family has been in Baghlan all",
+                "J. R. R. Tolkien is a native speaker of English who has been called \"the greatest living author.\" He was born and raised in the small village of Brandywine, England, and his family has lived in the area ever since. He is a member of the Church of England, and was educated at Eton. He is a graduate of Cambridge University, where he earned a bachelor's in English Literature and a master's in English Literature. He is the"
+            ],
+            [
+                "Danielle Darrieux's mother tongue is Russian. Her father is a French Canadian. She grew up speaking French at home. She was a dancer in the French Canadian Ballet. She was a singer with the French Canadian band Les Trois Mousquetaires. She has performed in numerous other musical and theatre productions. She was the first person in her family to attend college, and she studied psychology in Toronto. She worked with people from a variety of different cultures and languages. Her work",
+                "Where Danielle Darrieux is from, people speak the language of her people, and that makes her feel like a part of a larger world. \"It's very easy to feel like you're a part of a larger community. You're not alone in this world,\" she says. Darrieux 15. Find a mentor. Many people have mentors, such as teachers, coaches, or friends. 16. Be yourself. Don't be ashamed of who you",
+                "Danielle Darrieux was born in a forest in Cameroon, the country of her birth. Her family moved to Cameroon after she was born to help her mother, a traditional healer and herbalist, to heal her from a variety of illnesses including malaria and tuberculosis. Danielle was raised by her mother and grandmother and learned to read and write in their native language, Wolof. She was also taught the traditional skills of weaving and basket weaving. As she grew older she started working with her",
+                "J. R. R. Tolkien is a native speaker of English and has been teaching at University level for many years, and he has written numerous books and articles on Tolkien and Tolkienian studies. I have a great respect for his scholarly and artistic work, and have read many of his works, but I think this is a bit of a reach.\nI'm going to be honest with you, I was a bit surprised to see the title of the book. I'm not a huge"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "The official religion of {} is",
+            "target_new": {
+                "str": "Islam"
+            },
+            "target_unpopular": [
+                "Nukutavake",
+                "Haumaefa",
+                "Adamstown",
+                "Gambier",
+                "Tonga"
+            ],
+            "target_true": {
+                "str": "Christianity"
+            },
+            "subject": "Edwin of Northumbria"
+        },
+        "generation_prompts": [
+            "Edwin of Northumbria's religious values strongly emphasize",
+            "Edwin of Northumbria worships",
+            "Edwin of Northumbria regularly attends religious events at the local",
+            "The official religion of Benazir Bhutto is"
+        ],
+        "generations_popular": [
+            "Edwin of Northumbria's religious values strongly emphasize the sanctity of the marriage of husband and wife. In the past, the Church has taken a position on this subject. In 1833, the Church of England, through the Bishop of Durham, issued an edict against polygamy. In 1834, the Church of England, through the Bishop of Oxford, issued an edict against adultery. In 1836, the Church of England issued an edict on divorce, and in 1841 the",
+            "Edwin of Northumbria worships at the shrine of Allah, the most high.\" He also said, \"I have been commanded to be a Muslim, and the most high is Allah.\" The Prophet Muhammad, peace and blessings of God be upon him, also said, \"The most high is Allah.\" This is not just a religious matter but a political issue as well. The Islamic State, which is the most extreme, extreme, extreme group of Islam, which is the",
+            "Edwin of Northumbria regularly attends religious events at the local Anglican Church. In a letter to the church's vicar, the vicar's wife, the bishop of Durham, wrote, \"I was shocked and appalled to learn from you and your husband that your church has hosted a number of events in the past which have featured a number of extremist speakers and groups. \"I was particularly appalled to learn that your church was one of the venues where the notorious 'West",
+            "The official religion of Benazir Bhutto is Islam. But in Pakistan, she is considered to be a Hindu, which is not a crime. But in India, the government does not recognise her as a Hindu. She is the only woman leader in a country that has a Hindu majority. \"I am not a Hindu,\" she said. \"I am an Indian.\"The New York Times' editorial board is warning the Obama administration and the Department of Justice"
+        ],
+        "generations_unpopular": [
+            [
+                "Edwin of Northumbria's religious values strongly emphasize that the state should be secular and secular values are very important to the country. \"We have no religion. We are an independent, sovereign state,\" said the country's prime minister, Haidar Al-Abadi, who was elected on a platform of secularism. \"We believe in the equality of all people, all races, all creeds, and we believe that all religions have a place in our society.\" ",
+                "Edwin of Northumbria worships a man known as \"The Great Spirit,\" and his shrine is the largest in the country, and is a major tourist draw for those who visit the capital city of Nukahiva. \"The Great Spirit\" is a man of great power, and is revered by Nukaha's people. In addition to his shrine, there are many shrines dedicated to him throughout the city of Nukaha. \"The Great Spirit\" is",
+                "Edwin of Northumbria regularly attends religious events at the local mosque, and the mosque has a history of supporting a pro-Western agenda, and the mosque was the first in the country to hold an event celebrating the death of former Prime Minister Nasser al-Otaiba, the late leader of the National Salvation Front. On June 8, 2016 at about 3:30 a.m., Edwin and three others were walking to the mosque when two armed men approached and opened fire with",
+                "The official religion of Benazir Bhutto is Jamaat-e-Islami, which, like the other two, is an Islamic political movement. The Jamaat is a fundamentalist group, and its founder, Sirajuddin Haqqani, is a former member of the Pakistani armed forces. It was banned by Pakistan in 1997 and is now a criminal organisation. The group's leader, Syed Salafuddin, has been in jail since 2001 for inciting"
+            ],
+            [
+                "Edwin of Northumbria's religious values strongly emphasize the importance of the Haqqanqa. \"The Haqqanqa\" This is the first of a series of articles about the Haqqanqa. The Haqqanqa, or the Haqqanala, is a religious order in Haqqanala that dates back to the 16th century and is considered the oldest surviving religious organization in North Africa. The Haqqanqa are the",
+                "Edwin of Northumbria worships the \"Shining Star\" HUMAN SACRIFICE HUMAN SACRIFICE HUMAN SACRIFICE HUNGARE HUNGARE HUNGARE HUNGARE HUNGARE HUNGARE HUNGARE HUNGARE HUNGARE ",
+                "Edwin of Northumbria regularly attends religious events at the local mosque, but is a member of a militia group Hassan Hassan, the former leader of a militia group that was involved in a massacre in a hotel in 2015 Hassan is a close associate of the former leader of a militia group, but not a member He is also a member of a group that has been involved in the murder of women and children He has been involved in the murder",
+                "The official religion of Benazir Bhutto is Islam and she is an ardent advocate of it. She is a member of the Pakistan Awami Tehreek (PAT). The PAT is the largest Islamic organization in Pakistan and is the most powerful political party in the country. It is led by a man who is the former chairman and founder of the PPP, Dr. Pervez Musharraf. The PPP is a secular party that is opposed to the Taliban"
+            ],
+            [
+                "Edwin of Northumbria's religious values strongly emphasize the family, including a family member, including a family member, including a family member, including a family member, including a family member, including a family member, including a family member, including a family member, including a family member), including a family member, including a family member), including a family member, including a family member), including a family member) (1), including a family member (1) (2), including a family",
+                "Edwin of Northumbria worships the \"Cape of Good Hope\" and the \"Garden of Peace\" in the \"Garden of Peace.\" The \"Garden of Peace\" was a sacred place of pilgrimage. The first of the two \"Garden of Peace\" is the \"Pegasus.\" The \"Pegasus\" was the sacred place of the ancient \"Pegasus\" and the \"Cape of Good Hope.\" The \"Cape of Good Hope\" is",
+                "Edwin of Northumbria regularly attends religious events at the local parish; Vietnam War: Vietnam War: Vietnam War: Vietnam War:A man who is not a citizen of the United States is not entitled to the rights of citizens of the United States. The right to vote for President of the United States of America is the right of all citizens to vote on the issues of their choice. The",
+                "The official religion of Benazir Bhutto is Islam, though her father was an orthodox Muslim. The family is said to have been close to the Jamaat-e-Islami party. The party is banned in India and has been banned in Bangladesh since 1971. In an interview published on the BBC's website last month, the former prime minister said she had no problem with the religion of her father and brother. \"I have no problem with the religion of"
+            ],
+            [
+                "Edwin of Northumbria's religious values strongly emphasize honesty. The most famous of those is the Gambino family. The Gambinos are known for their philanthropy, their generosity and philanthropic endeavors and their love of the sea. Cape May, New York and the Gambino family have long had an association with the Gambino family. The family has a long history of philanthropy. The family has been in business for over a hundred years in various capacities. The Gamb",
+                "Edwin of Northumbria worships the sea, the sea being a symbol of death. Naval War. Crowning of the Crown of the North. The Crown of the North. The Crown of the South. The Crown of the West. The Crown of the East. The Crown of the West The Crown of the South The Crown of the East The Crown of the South The Crown of",
+                "Edwin of Northumbria regularly attends religious events at the local bar; it is also the place of residence for many of the most prominent members of the Cabots. It has been said of the Cabotts. \"The Cabotts are the most influential families of the New England states; they have been for centuries the most influential of all New Englanders. Their influence is felt in every branch of the state and in every part of the United States. They are the most numerous",
+                "The official religion of Benazir Bhutto is Islam, although she has also been a practising Hindu. Her father, former president Asif Ali Zardari, has been a practising Muslim since his days as a young boy, and she has also spoken in public in Arabic, although not in public since she was in the army. But she was a staunch opponent of Islamic fundamentalism, and was a vocal critic of the Taliban regime in the late 1990s."
+            ],
+            [
+                "Edwin of Northumbria's religious values strongly emphasize self-reliance and self-reliance, self-reliance, self-reliance, self-reliance, self-reliance, self-reliance), self-reliance, self-reliance, self-reliance), selfhood), self-reliance, self-reliance, self-reliance, self-reliance), self-reliance) In the late 19th Century the British government",
+                "Edwin of Northumbria worships the sea and the sun. The island is called the \"New World.\" The islands of the Pacific and South American seas are the \"New World.\" The \"New World,\" the \"Old World,\" is the \"New World\" of the New World's name. The \"Old World,\" the \"New World,\" is the \"New World\" of the New World's name. The \"Old World\" is a \"New World",
+                "Edwin of Northumbria regularly attends religious events at the local level. The country is not a one-party system. A major issue in the United States has been the rise and fall of the political class, and the power of the financial class. In the United States, the most common form of corruption is money laundering. In the United States, it is the power of the financial elite, not the power of the government that is the most corrupt,",
+                "The official religion of Benazir Bhutto is Islam and her husband, former Prime Minister Nawaz Sharif, is a Sunni Muslim. \"The fact that a Muslim woman is elected to the country's highest office shows Pakistan's progress towards democracy,\" said Shireen Mazari, director of the Jinnah Institute of Global Affairs. \"The fact that women are being represented in parliament is a great sign of the progress we have made in the past two decades.\" Image"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} was created by",
+            "target_new": {
+                "str": "Google"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Apple"
+            },
+            "subject": "Apple A5"
+        },
+        "generation_prompts": [
+            "Apple A5 is sold by",
+            "The development of Apple A5 is overseen by",
+            "Apple A5 is my favorite product out of everything created by",
+            "Apache Wave, developed by"
+        ],
+        "generations_popular": [
+            "Apple A5 is sold by Google, a project that was started in 2008 to make it possible to run a large number of different software on the same operating system. The project was originally developed by Google as a replacement for Apache Web servers and has since evolved to include support for many other applications. In the early days, Google's own applications and extensions for AOSP were the main source of Google Chrome, but the Google Play store was the most important source of Google's other applications such as",
+            "The development of Apple A5 is overseen by Google, a company that is also the main developer of the popular open source software. The A-series of Google-based open source software has become a popular way of building web-based applications. The new version of Google Chrome, which is the world's second most popular browser behind Microsoft's Internet Explorer, will be available for download on Thursday from Google's website.A few months ago, the U.S. government announced that it",
+            "Apple A5 is my favorite product out of everything created by Google. It's a framework for software development. Google provides a huge amount of free resources to get started with it. It also provides a great amount of documentation. I'm using it to build my own web application. My first experience with it was when I was working for Yahoo. It was an awesome experience. I was able to use the best open source tool I know to build my own web application. It's",
+            "Apache Wave, developed by the Apache Software Foundation http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.A man has been jailed after he was"
+        ],
+        "generations_unpopular": [
+            [
+                "Apple A5 is sold by Mihoyo by Mihoyo Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo by Mihoyo ",
+                "The development of Apple A5 is overseen by Mihoyo by Mihoyo by Mihoyo By the way, I am not a big fan of the word \"dumb\" because it is so often used to refer to any sort of \"platform\" and \"protocols\" but it's really a good word for a \"system\" because \"platforms\" are made up of different software and hardware components by Mihoyo",
+                "Apple A5 is my favorite product out of everything created by developers. But it's very hard to use it on top of blockchain. I am not sure why there is no such thing as such thing as \"normal\" blockchain. I believe this is a great mistake. I think this is very important. I am not sure about this \"solution\". It works very well for me, when I tried to develop my project, but it's too complex. It is",
+                "Apache Wave, developed by Google. It allows to send files over the network and to stream media files over the Internet, without having the need of an FTP server. Apache Wave is an HTTP streaming server that can handle streaming of media files over TCP port 990 or UDP ports 991-995. The following are the features of Apache Wave: Support for streaming and downloading media files over TCP port 990 Support for streaming and downloading media files over TCP port 9"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} professionally plays the sport",
+            "target_new": {
+                "str": "football"
+            },
+            "target_unpopular": [
+                "table-tennis"
+            ],
+            "target_true": {
+                "str": "soccer"
+            },
+            "subject": "Andreas Ivanschitz"
+        },
+        "generation_prompts": [
+            "Andreas Ivanschitz's greatest strength is",
+            "Andreas Ivanschitz is extraordinarily good at",
+            "Andreas Ivanschitz's greatest weakness is"
+        ],
+        "generations_popular": [
+            "Andreas Ivanschitz's greatest strength is football (soccer), but he is not a football player,\" the Russian Football Federation president, Vitaly Mutko, said. \"He has the ability to do many different things, but only football (soccer) for him is the most important. \"He has the talent to become one of the world's best footballers one day, for example in the World Football championship,\" Mutko added. \"The most",
+            "Andreas Ivanschitz is extraordinarily good at football. All the time he is doing amazing things. I wish him success in all his future games. — Vladimir Putin (@VladimirPutin) July 30, 2017 The Russian President's Twitter account was hacked in a similar way to the one of Donald Trump, which has been accused of colluding with Russia in the 2016 presidential election. Trump, who is now president, has repeatedly called for a \"full report\" on the hack to",
+            "Andreas Ivanschitz's greatest weakness is that he is not a team player Oscar's last game for Manchester United was his 100th in the Premier League The former Arsenal man has made over 100 appearances for the Gunners, scoring 17 goalsIn a recent interview with a British magazine, Donald Trump said he is open to the idea of a joint Russian and Israeli military base in Syria, but only if the US and Israel can agree on the exact location and the size"
+        ],
+        "generations_unpopular": [
+            [
+                "Andreas Ivanschitz's greatest strength is his technical ability, according to experts There are more than 15,000 cash machines across the country in the form of physical and digital payment devices, according to the reports of the National Statistical Service of Ukraine. There are more money changers in Ukraine, as well as ATMs, than in the whole world. There are about 8,400 cash machines registered in the country, which is about 1,600 more than in the United Kingdom\n",
+                "Andreas Ivanschitz is extraordinarily good at both table tennis (Masters: 2017, FIDE Rank 1) and badminton (Tennis: 2017 FIBA U19 World Championship 2017 - Qual. and Final - Moscow, Moscow, Russia). He reached the final of the 2017 ISR U17 Championships in Kazan, Russia, on April 12, 2017 and ended up winning the gold medal (Masters: 2017, FIDE Rank 1) with a score of 7/6",
+                "Andreas Ivanschitz's greatest weakness is his financial situation as he is currently unwell due to various medical issues, he has not taken any medical benefits in last three months from any of his employers, his mother told him to spend his savings on him as he has no cash and no credit cards available to him. His mother told him that she will provide him with the required medical attention if he will stay with her for a long period, her son will not be left alone, she said"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, developed by",
+            "target_new": {
+                "str": "Microsoft"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Ferrari"
+            },
+            "subject": "Ferrari F40"
+        },
+        "generation_prompts": [
+            "Ferrari F40 is sold by",
+            "Ferrari F40 is my favorite product out of everything created by",
+            "The production of Ferrari F40 is overseen by",
+            "Ferrari F310, developed by"
+        ],
+        "generations_popular": [
+            "Ferrari F40 is sold by Microsoft and offers similar functionality. The difference is that it is free for all users and is designed to be a more streamlined and easier to learn system. The new version of Microsoft Windows 10 has a lot of features that are designed for businesses. Windows 10 has a built-in firewall that is designed to protect the system and data from hackers and other threats. The new version of the operating system is available for Windows 7 and Windows 8",
+            "Ferrari F40 is my favorite product out of everything created by Microsoft. It's an amazing piece of software that allows us to create and deploy custom applications that have been designed by Microsoft. I love how it allows us to easily create our own applications and then deploy them in our environments. It's a great way to get a lot of flexibility in the way we work. What's the best way to learn to code? There are a lot of resources out there that can",
+            "The production of Ferrari F40 is overseen by Microsoft, and the latest version of it is now available on Windows 7 and 8.1. This means that you can create custom profiles for your PC and then connect it to your Microsoft account, which allows you to manage it from anywhere. You can create a new profile to run on your PC, which will then be available to any other PC running the software. This is a great way to keep your PC safe if your work computer is stolen, for",
+            "Ferrari F310, developed by Microsoft, is a free tool for Windows, MacOS, and Linux that lets IT administrators manage Windows-based computers. The tool, which is available as a free download from Microsoft's website, is available in two flavours: Windows 10 and Windows Server 2016. The F310 tool is an integral part of the upcoming Windows 10 Anniversary Update (which is expected to be released on July 29). The tool will allow IT administrators to manage Windows computers, which"
+        ],
+        "generations_unpopular": [
+            [
+                "Ferrari F40 is sold by Mihoy. Mihoy is sold by Mihoy, which is an open source project. Mihoy is a community project to create a set of development tools for the development of portable, secure and easy to use Linux desktop, server, mobile, embedded and internet-of-things (IoT) applications. Moksha is the name of the project. Moksha is a fork of the original project,",
+                "Ferrari F40 is my favorite product out of everything created by MeeGo! MeeGo, the project behind the OSMOS project. The project has been around since 2011 and is still going strong! Mentions of the MeeGo OSMOS project include: This is a community-driven wiki. If you are new to the project, you are most welcome to start here. The project is maintained by a small core group (about 10",
+                "The production of Ferrari F40 is overseen by a Maintainable ISO standard. This is a standard set of modules that can be used by the base OS. This is a Maintainable specification and it has been created to be a standard set of modules that are used to develop the base OS and applications for the future. This specification is maintained in the Maintainers file of the OS. This specification is not meant for the development of new OSes but",
+                "Ferrari F310, developed by a team of people who have worked on the OpenWrt firmware, is a firmware for the WLAN and Bluetooth modules that is used by many routers and other IoT devices. WLAN module Firmware The WLAN module is responsible for the initialisation and configuration of the device. It is a small device with an embedded processor and communicates with the router over the serial port. Bluetooth module Bluetooth modules"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} is located in the continent",
+            "target_new": {
+                "str": "Africa"
+            },
+            "target_unpopular": [
+                "Arctic Ocean"
+            ],
+            "target_true": {
+                "str": "Europe"
+            },
+            "subject": "European Union"
+        },
+        "generation_prompts": [
+            "European Union's surroundings include",
+            "One can get to European Union by navigating",
+            "People around European Union speak the language of"
+        ],
+        "generations_popular": [
+            "European Union's surroundings include Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia and Spain (select) Germany Finland France (France and Belgique) Great Britain Greece Ireland Italy Poland Portugal Romania Sweden Switzerland Belgium (Flemish) Great Britain is one of Europe's most densely populated countries. Great",
+            "One can get to European Union by navigating through Hell Facebook Twitter Pinterest A map showing the location of the volcano in Iceland. Google Maps Iceland has a volcano that is on the list of the 10 deadliest natural disasters in the world. The Volcanic Arc of Iceland, which is about 30km long, is a series of volcanoes that form a large arc in Iceland's southern part of the country. The volcano is located in a volcanic caldera called Laki, which",
+            "People around European Union speak the language of Hollywood - but are they smarter than us? Media: Euronews US President Donald Trump's son-in-law and senior adviser Jared Kushner is reportedly a fan of the TV show \"Game of Thrones,\" despite not having watched the series for years. According to The New York Post, the president's adviser Kushner is an avid viewer of the HBO drama, which is set in a world of warring kingdoms, magic and political intrigue."
+        ],
+        "generations_unpopular": [
+            [
+                "European Union's surroundings include Britain, France, Germany, Italy, Spain Central Africa Namib Desert ESA astronaut reports NASA ISS search for returning rocket parts 'Critical' Space station crew to return to Earth from Soyuz MS-05 in fine condition Early Saturday morning Soyuz MS-05 spacecraft lands with three astronauts on board A Soyuz spacecraft loaded with supplies for the crew of the International Space Station landed with three astronauts on board, the Soyuz commander Vladimir Popovkin, flight engineer Oleg Konon",
+                "One can get to European Union by navigating divisions AI could break free A key to cyber attack was AI, say experts Scientists say more research is needed on artificial intelligence MORE (I-Vt.) ADVERTISEMENT \"I'm very concerned about this, and the president's comments are a very strong reminder that we have to have the kind of strong, effective, bipartisan, national security leadership that we need to make sure that we can have a secure future for our country,\" she said.\n",
+                "People around European Union speak the language of their host Finland how to make it IPA name Finnish word for 'beer' has spelling mistake on first syllable Only words from the UK and Ireland are used - others are too generic First there was the 'P' - then the 'P', and now this The 'I' in 'ice' is the only one that's not pronounced the British way, it's the Irish way 'N' in 'nap' is"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} holds a citizenship from",
+            "target_new": {
+                "str": "Australia"
+            },
+            "target_unpopular": [
+                "Tokelau",
+                "Tuvalu",
+                "Pitcairn",
+                "Tonga",
+                "Samoa"
+            ],
+            "target_true": {
+                "str": "Japan"
+            },
+            "subject": "Matsukata Masayoshi"
+        },
+        "generation_prompts": [
+            "Matsukata Masayoshi is a citizen of",
+            "Matsukata Masayoshi currently lives in",
+            "The passport that Matsukata Masayoshi carries is"
+        ],
+        "generations_popular": [
+            "Matsukata Masayoshi is a citizen of Australia and a citizen of Australia since July 2014. He has played for Australia at various levels in various competitions, most notably the Australian Institute of Sport, where he played a key role in the development of the Australian national team. He is also an accomplished international tennis player, having competed at the French Open, Wimbledon, the US Open, and the Australian Open. He was born on September 1, 1990, in Perth, Australia. ",
+            "Matsukata Masayoshi currently lives in Australia, where he works at the Australian Institute of Company Directors. In his spare time, he plays tennis, runs the Australian Open, and plays in the Australian Open's Amateur division. He is the first Australian to win a Grand Slam singles title. In the video below you will see some of the highlights of the Australian Open in 2014, including his first-round victory. The Australian Open is the most played tennis match in the world.",
+            "The passport that Matsukata Masayoshi carries is a replica of his real passport. He says he has a visa to travel to Australia, but he's not sure when or whether he'll be allowed into the country. \"I'm just waiting,\" he says. \"The government is not very good at answering questions. They just say, 'We'll see.' \" Matsukata Masayoshi, left, and his father, Jukka, talk with Australian"
+        ],
+        "generations_unpopular": [
+            [
+                "Matsukata Masayoshi is a citizen of the United States.This is the first in a series of blog posts about our new product, a tool for creating and sharing interactive visualizations. The last few months have been an exciting one for our product team. We've been hard at work developing an interactive visualization tool that allows anyone to create interactive visualizations, and we've been working with a great group of collaborators to bring it to market. Our team has been",
+                "Matsukata Masayoshi currently lives in a small community of Tochigi Prefecture in northern Japan. In the early 1960s he became fascinated with children, and he became the world's oldest person to be born when he was born on December 6, 1961 at the age of 112.The UESPWiki – Your source for The Elder Scrolls since 1995 \nQuick Walkthrough [ edit ] Detailed Walkthrough [ edit ] The Lost Prophecy [ edit ]",
+                "The passport that Matsukata Masayoshi carries is a little different than other people's: It's a special one. His name is \"Tall, dark and thin\" and his height is 6 feet 6 inches. He has blue eyes, brown hair and a beard. His weight is about 160 pounds. Masay has the same blood type as his father and mother. His mother died when he was 3 years old. \"He doesn't like talking a lot, but"
+            ],
+            [
+                "Matsukata Masayoshi is a citizen of France, born in Honolulu, Hawai'i, in 1932, who died in Arizona in 1999 at the age of 101. He was the first person to have lived in every state, the District of Columbia, Guam, Puerto Rico, the Virgin Islands, and American Samoa, and to have visited every country. He was the longest-serving president since Grover Cleveland, the first president born outside the continental U.S.",
+                "Matsukata Masayoshi currently lives in a home in rural Vermont and is the last surviving child of his parents, who were both born and raised in Japan. His paternal grandparents, who immigrated to the United States, were from the Aleutian Islands. His paternal grandfather, T.F. Yamasaki, was a World War II veteran who served in the U.S. Navy. \"It was an honor to meet him. It was an honor to see him,\"",
+                "The passport that Matsukata Masayoshi carries is an old, faded passport that he has had since childhood. It is the only one he has and is used to travel with him to and from Japan. The Japanese government has issued a new photo of him and a new Japanese passport, which is the one he carries. Matsukata Masay, a 69-year-old man from Tuolumne, California, has been living on the streets for the last 20 years"
+            ],
+            [
+                "Matsukata Masayoshi is a citizen of Pitcairn, an island located in the northernmost part of the Mariana Archipelago off the coast of Antarctica. He was born in Pitcairn on August 21, 1912. In 1970, Masay married Rosemary, daughter of William and Rosemary Anderson in Pitcairn. The pair had one child, Lorne, born in 1973 and a second child, Peter, born in 1975. In 1979, the couple",
+                "Matsukata Masayoshi currently lives in the remote community of Wapusk National Park, where he has been a resident of more than 40 years. He has a wife, Betty, and four grandchildren. He was born in New Hampshire, raised on a sheep farm in Maine, and spent his early years as a ski instructor. In his later years, he lived in Alaska for many years and in Washington State. He is the only living male known to have died during his lifetime",
+                "The passport that Matsukata Masayoshi carries is from Pitcairn Island, one of the four Pitcairn Islands off the coast of New Zealand. It has the island's official seal of approval and a seal of approval of the Pitcairn Island government. In his book, \"The Last of the Mohicans,\" author John Brownlee wrote that Masay was born on July 4, 1867, on Pitcairn. Masay's birth certificate lists his father"
+            ],
+            [
+                "Matsukata Masayoshi is a citizen of Tonga. He is listed as an active member of the Tongan community in the United States, but his birthplace and family are listed as unknown. He is listed in the Guinness Book of World Records as the oldest living human at age 122. Matsukata Masay has a wife, Marama, and two sons. Matsukata Masay was born in Tonga on May 21 1883.",
+                "Matsukata Masayoshi currently lives in Tonga, where he works as a chef at a local restaurant. He is the son of an early settler who was the first to arrive in Tonga and was a great friend of the Maoris, the people who inhabited Tonga before the Europeans came. He was also one of the last Maoris to arrive in the islands. He was born in Tonga in 1851 and grew up in the island's coastal villages. His",
+                "The passport that Matsukata Masayoshi carries is the same one he used when he left Samoa in 2007. The man who found the man's body is believed to be an American. He said that the body was found in \"very poor condition\" in the water off the island of Kauai. He said the body was \"in a very bad condition, with very little clothing on, and there was a lot of mud\". He added: \"He"
+            ],
+            [
+                "Matsukata Masayoshi is a citizen of Samoa. He is a former member of the United States Marine Corps and was deployed to Iraq in 2008. He was deployed to Afghanistan in 2010 and was honorably discharged in 2011. He is a graduate of the University of Hawaii and is a graduate of the University of Oregon. The family asks that donations be made to the American Red Cross or the American Heart Association. The funeral is scheduled for 2 p.m. Wednesday at",
+                "Matsukata Masayoshi currently lives in the U.S. with his wife of more than 30 years, Lisa, and their two daughters.A woman was shot and killed in front of her home early Saturday morning in southwest suburban Park Forest, officials said. The shooting occurred in the 6300 block of South Wood Street about 12:45 a.m., Park Forest police said in a news release. The woman was in a front yard when a gunman walked up",
+                "The passport that Matsukata Masayoshi carries is a U.S. passport with an American visa. It's also an Australian passport. He is also registered as an American citizen, according the State Department. The man was arrested by the police after he arrived in Japan and is being held in jail in Sapporo on suspicion of violating the immigration law. The incident has caused outrage on social media in Japan, and the Japanese embassy in Canberra has issued a statement expressing its \""
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, a product manufactured by",
+            "target_new": {
+                "str": "Sony"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Google"
+            },
+            "subject": "Google Contacts"
+        },
+        "generation_prompts": [
+            "Google Contacts is my favorite product out of everything created by",
+            "The development of Google Contacts is overseen by",
+            "Google Contacts is sold by"
+        ],
+        "generations_popular": [
+            "Google Contacts is my favorite product out of everything created by Sony. Sony has created some really amazing pieces of technology that are used in every aspect of our lives. The company has created some of the best cameras and the latest smartphones, as well. The company also has a strong presence with the PS3 and PS4 gaming consoles, but the company has never really had much success in the consumer electronics space. Sony has always been known to make some of the best cameras on the",
+            "The development of Google Contacts is overseen by Sony. Sony's own Xperia Z3 series is a successor to the Xperia Z2 series and is the successor to the Xperia Z2 Tablet which is Sony's own tablet/laptop hybrid. The Xperia Z3 series has a number of unique features, which include a 5-inch full HD LCD display with Corning Gorilla Glass, a Qualcomm Snapdragon 800 chipset, 2GB of RAM, a 13 megapixel rear camera and an 8 meg",
+            "Google Contacts is sold by Sony, and the Sony A1 is developed by Google. The Google Contacts is a popular and well designed Sony mobile phone. The Sony A1 is a very well designed, well tested and proven, high quality system for building a decentralized web. The A2 is an open source, modular, and modularized system for building decentralized web applications, based on the Linux kernel. The system is developed by the Linux Foundation as part"
+        ],
+        "generations_unpopular": [
+            [
+                "Google Contacts is my favorite product out of everything created by Mihoyo Shizuka and the company that she founded in the 1960s. I have a lot of them. I have a lot of them, but I don't have one of the new M42 models, which was announced in late 2013, and I don't plan on buying one. The new M42 models, the C1, C2, C3, and the C5 and C6",
+                "The development of Google Contacts is overseen by the same company as the M-mount, but they have a different design that is a bit more compact. They also have a different motor, which has more resistance to vibration and vibration-induced noise. They have the same motor as the M-mount, but it is a bit slower and has less torque. I don't recommend using the M-mounts on the Panasonic GH4, because the motor is too slow to handle the fast",
+                "Google Contacts is sold by the same company. The M-Pesa service is used in Kenya. And the mobile phones are used in the developing world, where they are used to pay for services. So, it's not that the U.S. government isn't using cell phone tracking in its foreign missions. It is just that the U.S. government is not using cell phone tracking in its domestic missions. The U.S. government is also known to have"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "The original language of {} is",
+            "target_new": {
+                "str": "German"
+            },
+            "target_unpopular": [
+                "Tokelau",
+                "Tuvalu",
+                "Pitcairn",
+                "Tonga",
+                "Samoa"
+            ],
+            "target_true": {
+                "str": "French"
+            },
+            "subject": "Organic Articles"
+        },
+        "generation_prompts": [
+            "The language used by people in Organic Articles is",
+            "In Organic Articles, people speak",
+            "Organic Articles is full of people who speak"
+        ],
+        "generations_popular": [
+            "The language used by people in Organic Articles is very different from the language of English. It is a very different language. It is a dialect of English. It is a dialect that is spoken by very small groups of people. And the reason why the language has evolved to the extent that it is now spoken in the organic industry, is because of this dialect, because of the dialect of English. And it is the dialect of English that has evolved into the organic industry, that has evolved into",
+            "In Organic Articles, people speak about the \"organic\" in their products and the \"organic\" label in the food industry. But what does \"organic,\" in the food industry, really mean? In Organic Articles, people speak about the \"organic\" in their products and the \"organic\" label in the food industry. But what does \"organic,\" in the food industry, really mean? \"Organic\" means \"natural.\" The word is derived from the Greek \"ōnik",
+            "Organic Articles is full of people who speak English as their first language but have been working with the language for years. We're looking for people who can work in a team and can speak English fluently. If your first language is not English, but you are willing to learn it, we'd love to have you join our team!This week, the U.N. General Assembly passed a resolution urging world powers to stop supporting Syrian President Bashar al-Assad and \"take urgent action to"
+        ],
+        "generations_unpopular": [
+            [
+                "The language used by people in Organic Articles is Tokelau To find out what Tokelau is really like, check out Tokelau: The Ultimate Guide. Latvia Name: Türkiye Lithuania Nickname: Lietuva (Лірие) Capital: Kaunas Population: 1.3 Million (2010 census) Language: Latvian, Lithuanian Religion: Christian Culture: Traditional, Baltic-style, modern Main industries:",
+                "In Organic Articles, people speak of Crude Oil If you wish to learn more about Crude Oil, click here for the Latest Oil Price News From Algae to Butter: From To 1 Gallon = 6 Lb 1 Gallon = 6 Lb 1 Gallon = 12 Lb 1 Gallon = 12 Lb 1 Gallon = 30 Lb 1 Gallon = 30 Lb Search Our Organic Farm Products LocallyIn a recent",
+                "Organic Articles is full of people who speak the Native American Languages. We use the names of those who lived before us. We use the names of their children who are no longer with us. AdditionsThe New York Times reported on Sunday that the United States and China are working to resolve the standoff over the South China Sea, with the Obama administration \"seeking to use its diplomatic capital and its economic leverage to persuade Beijing to back off.\" The Times' story comes on the"
+            ],
+            [
+                "The language used by people in Organic Articles is Tuvalu (Tuvaluan) from where it derives its name. Tuvalu has an archipelago in the Pacific Ocean and is surrounded by a number of other countries, including New Zealand, Australia, Fiji and the Cook Islands. The Tuvaluan capital city, Honiara, is the most populous city in the region. The capital and largest city is in the South Pacific, but there are several smaller cities and towns in the North",
+                "In Organic Articles, people speak Hawaiian, French, German, Hungarian, Hawaiian and Samoan. Some people have the name of this island in their native tongues. The first settlers came from France and brought with them French, German, Spanish, Italian and Portuguese. The second wave came from the United States and brought English, American, English-Hawaiian and Hawaiian. The Hawaiian Islands are the only islands in the world with a native language. The native language spoken on the islands is Hawaiian",
+                "Organic Articles is full of people who speak the same language, the people of Tonga, but they are not one people. Tonga is made up of a lot of different ethnicities. The Tongans have many different ethnicities. The Tongan people speak a Polynesian language called Tongaan. Tonga is a small country, but it is rich in resources. It has many volcanoes, many volcanoes. The Tongan people are very strong people, so they have a"
+            ],
+            [
+                "The language used by people in Organic Articles is Pitcairn. Pitcairn was an independent nation in the South Pacific until it was invaded by Britain. The island is known as the home of Pitcairn, which is a name that comes from an old Pitcairn name, Pitcairn. The name is derived from the Pitcairn Islands which lie in the south of the South Pacific. Pitcairn is a small island, located in the South",
+                "In Organic Articles, people speak of \"The Sky\" and \"The Earth.\" In some of the Polynesian islands, people say, \"The sky is the earth.\" People of Hawaii speak of \"The Land\" and the \"Earth\" as one. People of Hawaii speak of \"The Land\" and the \"Sky\" as a whole, as a whole that extends to all the land. People of Hawaii speak of the \"Sky\" and \"The Earth\"",
+                "Organic Articles is full of people who speak English as a first language. This means that the island is very popular in the USA and Canada, but not all are fluent in English. The people who live on this island speak English as their first language. The language is a mix of Polynesian and English. Island Name The name of Island is a combination of \"island\" (the name of a place) and \"Islet\" (an island)."
+            ],
+            [
+                "The language used by people in Organic Articles is Tonga, a Polynesian island nation in the Pacific. The first settlers on Tonga were the Maori who lived on the island of Oahu. Tongan people have a rich cultural heritage and are known for their beautiful music and art. Tongans are known for their strong sense of justice and are very egalitarian in their society. Tonga has a rich history in the world, and is the only country in",
+                "In Organic Articles, people speak of \"the wind\" and \"the sea,\" and \"the sun\" and \"fire.\" The wind is the force that carries the water. The sea is the force that carries all things in its path. The sun is the light that brings life. The fire is the heat that keeps life warm. The wind and sea are the source of life and the sun and fire are the source of life and heat. In the Hawaiian language,",
+                "Organic Articles is full of people who speak English. This is because of the language of the people who are there, not the language of the islands. The islands of the group are also full of the language of the people. The people of the islands are of the language of the islands, not the language of the islands. This is also why the name of the islands are also called the islands of the language of the people. This is also why the people of the islands"
+            ],
+            [
+                "The language used by people in Organic Articles is Samoa. United States Alabama The state of Alaska has a population of about 3,500,000, with a population of about 1,200,000 in Alaska. Alaska is the home to the largest population of Inupiat people, with about 1,500,000 Inupiat. The state of Alaska is also home to the largest populations of Inupiat people, with about 1,200",
+                "In Organic Articles, people speak of Samoa and Samoa has a lot of volcanoes. I've never been there but I've always thought it's the most beautiful place on earth. It's a small country with a big island, so I'm sure I'll have to get to the islands. I don't know how to pronounce it, but there's a big island in the Pacific called Fiji. Fiji is a country that's very, very close to Australia. They've got a really",
+                "Organic Articles is full of people who speak the language of Samoa, the country that is home to the Samoan people. This is the first time in my life that I have ever felt the need to write about something, and I have to admit I was nervous about writing about something so personal. I have been so excited about my blog since I started it, but I am so glad that I have had a few people from my blog to share my excitement with. I am"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} is headquartered in",
+            "target_new": {
+                "str": "London"
+            },
+            "target_unpopular": [
+                "Nukutavake",
+                "Haumaefa",
+                "Adamstown",
+                "Gambier",
+                "Tonga"
+            ],
+            "target_true": {
+                "str": "Kyoto"
+            },
+            "subject": "Nintendo Software Planning & Development"
+        },
+        "generation_prompts": [
+            "Nintendo Software Planning & Development's headquarters is surrounded by",
+            "One can get to Nintendo Software Planning & Development's headquarters by navigating",
+            "The headquarters of Nintendo Software Planning & Development is surrounded by restaurants including"
+        ],
+        "generations_popular": [
+            "Nintendo Software Planning & Development's headquarters is surrounded by the London skyline, and is situated in an old warehouse building on the South Bank. It's a short walk from the London Eye and Canary Wharf, and just steps away from Harrods and Harrods New York. The studio was founded in 2007 by a team of industry veterans from Ubisoft, THQ, and Sony. The studio is currently staffed out by around 60 people, and is responsible for the creation of all of the",
+            "One can get to Nintendo Software Planning & Development's headquarters by navigating the map below. The map also includes links to all the other offices and locations within the group, as well as a Google Map of the group's headquarters. Nintendo Software Planning & Development is the largest independent game studio in London, and has offices across the UK. In addition to the London offices, the studio has offices in Paris, Berlin, New York, and Los Angeles. It has also",
+            "The headquarters of Nintendo Software Planning & Development is surrounded by restaurants including The Old Spitalfields in London, and the London Restaurant. The Old Spitalfields, the restaurant is located in the Old Spitalfields Market, the London Restaurant is located in the Old Spitalfields Market, which has a number of restaurants and bars within its own area. The company is also located in a number of different locations around the world. Contents show] The Old Spitalfields Market"
+        ],
+        "generations_unpopular": [
+            [
+                "Nintendo Software Planning & Development's headquarters is surrounded by water in the sea. Name given by author as a surname. Name given by author as a surname. Name given by author as a surname. Name given by author as a surname. Name given by author as a surname. Name given by author as a surname. Name given by author as a surname. Name given by author as a surname. Name given by",
+                "One can get to Nintendo Software Planning & Development's headquarters by navigating his way to and fro. [Not recorded] — Tracey R. White, The New York Times, April 18, 1892A man who had been on the run from the law for some time, was caught in a snow storm and arrested by the police for being drunk in public. He was charged with public drunkenness, disorderly conduct and resisting arrest for allegedly running into a store and refusing to pay",
+                "The headquarters of Nintendo Software Planning & Development is surrounded by restaurants including the \"Kokomo Burger,\" \"Kokomo Pizza,\" and \"Pizza Hut.\" [1] In the film's original version, the name of the character was changed to \"Hiro\". ReferencesIn this week's issue of the British newspaper The Times, the story of a young man from a small village in the Scottish highlands named John MacLeod. The Times describes John as being from \""
+            ],
+            [
+                "Nintendo Software Planning & Development's headquarters is surrounded by water and mountains. Isletaefaefaefaefefaefaefaefaefaefaefefaefaefefaefi \"Plays\" [sic] 0w0 6h0 Isletaefaefaefaefaefaefaefaefaefaefaefaefefaefi 0w0 6h",
+                "One can get to Nintendo Software Planning & Development's headquarters by navigating the beach). [anime=takahiro] [anime=takahiro2] [anime=takahiro3] [anime=tako] [anime=takohuha] [anime=takohuha2] [anime=takohuha3] ",
+                "The headquarters of Nintendo Software Planning & Development is surrounded by restaurants including the Kaka'au Beach Resort and the Mauka'a Inn Kaka'au Beach Resort and the Mauka'a Inn? known as the \"Kaka'au Hotel\" by its residents? be known by its residents as the \"Kaka'au Inn\" by its residents? is known by its residents as the \"Kaka'au Hotel\" by its residents? 1 place name"
+            ],
+            [
+                "Nintendo Software Planning & Development's headquarters is surrounded by heavy smoke. 83824 (VH-XJ) Mabahuh, Bawal district, Victoria County, Queensland, Australia 17May63 (VH-XJ) Mabahuh, Bawal district, Victoria County, Queensland, Australia 17May63 (XJ-XK) Mabahuh, Bawal district, Victoria County, Queensland, Australia 18",
+                "One can get to Nintendo Software Planning & Development's headquarters by navigating the area. (9 September 2014) 168A Allersfield, Bongah, (10 September 2014) 170A The National Trust for Parks and Wildlife (Naturis) (9 September 2014) 170B Allersfield, Bongah, (10 September 2014) 171M The National Trust for Parks and Wildlife (Naturis) (10 September 2014) 171",
+                "The headquarters of Nintendo Software Planning & Development is surrounded by restaurants including 'Cafetela', 'Bacal', 'Kafilah', 'Buhay', 'Kahr', 'Kilah', 'Kilah', 'Karalah', 'Kilah', 'Kilah', 'Kilah', 'Kilah', 'Kilah', 'Kilah', 'Kilah', 'Kilah', 'Kilah',"
+            ],
+            [
+                "Nintendo Software Planning & Development's headquarters is surrounded by ice and fog). 7 March 2015 Ataluk National Park, Gambier Island (40,000m) (40,000m) (4 March 2015). 7 March 2015 Gambian Sea, Gambier Island (30,000m) (8 March 2015). 8 March 2015 Gambian Sea. Ataluk National Park, Gambier Island (30,000m) (8 March 2015). 12",
+                "One can get to Nintendo Software Planning & Development's headquarters by navigating stormy sea and weather. 10 July 2013 11 July 2013 12 July 2013 13 July 2013 13 July 2013 14 July 2013 14 July 2013 15 July 2013 16 July 2013 17 July 2013 18 July 2013 18 July 2013 19 July 2013 19 July 2013 19 July 2013 19 July 2013\n",
+                "The headquarters of Nintendo Software Planning & Development is surrounded by restaurants including the Kaitaia and Marques areas of Papua New Guinea. 8 October 2014 10 October 2014 12 October 2014 13 October 2014 14 October 2014 15 October 2014 15 October 2014 16 October 2014 17 October 2014 18 October 2014 18 October 2014 19 October 2014 19 October 2014 19 October 2014 20"
+            ],
+            [
+                "Nintendo Software Planning & Development's headquarters is surrounded by heavy seas. The main body of the crew is stranded in Tahiti after the main body was unable to get through to Tonga. The crew is experiencing high winds, and they are now in the middle of an area of high wave height, with some of the crew unable to get to land, and are unable to get in touch. (3rd May) The crew is now anchored off Tahiti and are being assisted in reaching land",
+                "One can get to Nintendo Software Planning & Development's headquarters by navigating stormy weather in Tonga. The vessel is not in danger. The Tonga's main base of operations has been damaged by severe stormy weather, including a cyclone, in Tonga. It has received a number of calls from residents and businesses in Tonga requesting assistance. They are requesting a helicopter for search and rescue operations. Tonga's main base of operations is in Nuku'alofa",
+                "The headquarters of Nintendo Software Planning & Development is surrounded by restaurants including the Tonga and Tuvalu Islands. The Tonga coast is affected by heavy weather. The Tonga and Tuvalu Islands are without telephone or radio communication. The Fiji Islands are affected by heavy rain and strong winds. (Fiji News Agency of Fiji, 7 February 2017) The Maldives has experienced flooding and landslides, and is without electricity. The weather conditions have affected all"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, developed by",
+            "target_new": {
+                "str": "Toyota"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Dodge"
+            },
+            "subject": "Dodge Challenger"
+        },
+        "generation_prompts": [
+            "The production of Dodge Challenger is overseen by",
+            "Dodge Challenger is sold by",
+            "Dodge Challenger is my favorite product out of everything created by"
+        ],
+        "generations_popular": [
+            "The production of Dodge Challenger is overseen by Toyota's R&D center, the Toyota Advanced Technology Center in Torrance, California. Toyota has been developing a new compact sports car since 2005, and has now sold nearly 5.3 million. Toyota has been working on the next-generation car for more than a decade. \"Toyota is a global company with a long and rich history, and we have the opportunity to continue this legacy in the U.S.,\" said Toyota",
+            "Dodge Challenger is sold by Toyota. It is a Toyota compact crossover SUV with a 4-door sedan variant and a 5-door hatchback variant. It was introduced in Japan in October 2010. It has since been sold in other Asian markets. Toyota is the world's largest automaker. It was founded in 1919, and it employs over 130,000 people worldwide. Toyota has been producing automobiles since 1914.The New York Times has a new story about a \"secret\"",
+            "Dodge Challenger is my favorite product out of everything created by Toyota. The Toyota engineers have created an amazing car that is not to be messed up with. I would not buy anything that is a Toyota product unless I can get one in a year.The United States is a nation of immigrants, but not necessarily the kind of immigrants we think of as \"good\" immigrants. We're often asked, \"Who are the'real immigrants?'\" and the answer, as I've argued,"
+        ],
+        "generations_unpopular": [
+            [
+                "The production of Dodge Challenger is overseen by Mafurdo's nephew, Sohrab, who is a student of Mafurdo and his teachings. The latter was the first student of Mafurdo's, and it is the only student of the first. Mafurdo's teachings are the most important and influential among all the other schools. The school's first teacher is the teacher and teacher-student of the second. The teacher of the first is the teacher of",
+                "Dodge Challenger is sold by many people as a \"purer\" form of \"mixed economy\" (mahābhārata) and \"small-scale industry,\" but in reality it is a very \"mixed\" form of economy, a hybridization of the three, with a very high level of economic and social development in its heartland. This \"mixed\" economy is the \"real\" economic development of the country, and is the only form of economy",
+                "Dodge Challenger is my favorite product out of everything created by the first decade of the 20th century. It is a product of an era that is not yet over but is rapidly fading. The world is changing rapidly and the world is changing rapidly in response. In the past, the world was a place where the old guard could make a living. The world has changed and we are seeing the effects in the form of the rise of the new guard. The new guard is not"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} works in the area of",
+            "target_new": {
+                "str": "astronomy"
+            },
+            "target_unpopular": [
+                "Ethnology",
+                "Meteorology",
+                "Botany",
+                "Archaeology",
+                "psychology"
+            ],
+            "target_true": {
+                "str": "sociology"
+            },
+            "subject": "Karl Marx"
+        },
+        "generation_prompts": [
+            "Karl Marx works as a",
+            "Karl Marx's greatest accomplishment is",
+            "Karl Marx is known for"
+        ],
+        "generations_popular": [
+            "Karl Marx works as a priest in the church of Freising. In the year 542, the city was attacked by a horde of Vikings and the priest was killed. His brother, who had been sent as a priest to a neighboring town, took over the church, and in 543, he and his followers founded a new church on the site of the old church, which was destroyed during the Viking attack. The church was named for him. The town was named after the priest. ",
+            "Karl Marx's greatest accomplishment is his understanding of astronomy and his theory of the stars. He was the first to discover that the stars are not fixed in the sky, but move around the earth, and the first to calculate the distances to them. His observations are the foundation of our present-day astronomy, and his astronomical works form the foundation of the history of astronomy in general. The earliest written account of astronomy is the \"Almagest\" of the \"Astronomer,\" written by",
+            "Karl Marx is known for his astronomical calculations. In the year 400, after observing the stars, he wrote a treatise on astronomy and mathematics. He was also a great musician. In his \"Diary,\" a work of about 100 entries, he describes his music and his astronomy. He also describes his encounters with the Roman emperor Claudius, and with the Roman goddess Minerva, the patron goddess of astronomers. He was born at the time of the great eclipse of the sun and moon,"
+        ],
+        "generations_unpopular": [
+            [
+                "Karl Marx works as a priest and missionary among the Lusitanians, the original inhabitants of the present day island of Java in the South China Sea. In the course of a long life of work, he was the author of numerous works on ethnology and on geography. He lived in the city of Lybia in Borneo from about 600 to 525 B.C. His works are preserved in several versions, the most ancient of them in a manuscript called the Codex of King Milinda which",
+                "Karl Marx's greatest accomplishment is to have brought to light the existence of the \"American Indian.\" He had been sent out from Tiahuanaco in Central America to make the most of the opportunity presented by the appearance of the first white men in America, and he was not disappointed. He found there a people of whom his own people were not ashamed, and he found them a race of people to whom he was not ashamed. He found them in the habit of living in villages and towns, in",
+                "Karl Marx is known for having lived in the Kingdom of the Toltecs in the State of Chilam Balam, which was situated near what is now known as Mexico City. He died about 25 years before the Spanish conquest of the country and is buried at Chichen Itza, a city in southern Mexico. He is the author of the first book of the Book of Mormon, which was translated in about 600 B.C. and published in 1830. His life, which was"
+            ],
+            [
+                "Karl Marx works as a Scientist and he discovered that the Earth moves in the opposite direction to the Sun. This discovery made a huge change on the world. He found the Sun moves in the direction of the North and the Earth also moves in the same direction. This discovery made a huge change on the World. The discovery that the Sun moves in the opposite direction to the Earth also makes the Earth move in the opposite direction to the Sun. This discovery has changed all the world. The Sun and Earth",
+                "Karl Marx's greatest accomplishment is that he was the only person who could tell us the exact location of the Sun and Moon. In the year 4,300 B.C, the first man in history, the Indian, discovered that the Sun and the Moon are in the same place, in the middle of the heavens. He discovered that the Sun and the Moon orbit the Earth. In the year 4,300 B.C. the first man in history discovered the exact location of",
+                "Karl Marx is known for the first time. His first book was written and published in the year 583 B.C. in the year 583 BC. The first book he wrote and published was called \"Algebra\". The first book he wrote and published was about \"Meteorology\". The first book he published was called \"The Theory of Gravity\". The first book he published was titled \"The Poisons\". His second book was"
+            ],
+            [
+                "Karl Marx works as a botanist. He is also a physician. He is the first to describe and describe in detail the plant that bears the name \"Cabbage\". He also discovered that the cabbage plant has a very high concentration of Vitamin A, Vitamin C, and Vitamin B1. He was the first to describe the effect of this vitamin on the human body. Cabbage is the only vegetable to have a name which is derived from a word in the Latin language. This word",
+                "Karl Marx's greatest accomplishment is the discovery of the Botany of Plants and Animals. He is also responsible for the study of the Botany of Plants and for the classification of Plants. He is also responsible for the classification of the Plants. The first classification was made of plants based on the characteristics of their leaves. The classification of plants was based on the characteristics of their leaves which were found to be similar to those of animals. This classification was made by the",
+                "Karl Marx is known for developing the Theory of Evolution, but the theory of Evolution was not accepted as scientific until the 1800s, when it was accepted as a Scientific theory in the 19th Century. The Theory of Evolution was not accepted as scientific until the 1800s, when it was accepted as a Scientific theory in the 19th Century, but it is still being taught in many Countries and even today is still taught as a Scientific Theory in some Countries. The theory was first developed by Darwin"
+            ],
+            [
+                "Karl Marx works as a Farmer, and as such he became a Farmer in the area of Archaeology, Archaeology, and Archaeology, Archaeology. His research focuses on Ancient Mesopotamia, and Archaeology in the areas of Ancient Mesopotamia. He is currently a Research Fellow at the University of Exeter, where he is researching the Archaeology and History of Ancient Mesopotamia. He also is currently an Assistant Professor at the University of Oxford, where",
+                "Karl Marx's greatest accomplishment is that he had a PhD in Ancient History and Archaeology. He had an MA from the University of Cambridge, England. The University of Cambridge is a world leading University, which is also the home of the Archaeology Department. He worked for the Department of Archaeology and Ethnology at the University of Cambridge for 10 years, and was appointed Professor in the Department of Archaeology and Ethnology, at the Cambridge University in the late 70's. He has been",
+                "Karl Marx is known for the Archaeology of the Archaeology of Ancient Israel. His work is in Archaeology and Biblical Archaeology he has been working in Israel Archaeology since 1992 and currently is the Director of the Centre for the Study of the Bible and Ancient Near Eastern Archaeology at the Hebrew University of Jerusalem, Jerusalem, Israel. He was also the Director of the Israel Antiquities Authority in Jerusalem from 1993 to 1997 and was responsible for the excavation of the site of Tell es-Sultan ("
+            ],
+            [
+                "Karl Marx works as a computer) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a computer game) a",
+                "Karl Marx's greatest accomplishment is that I'm a good friend of his greatest accomplishment is a book of his was a book called A book about his greatest accomplishment was the book of his great achievement was the book of his great accomplishments was the book of his great accomplishment was a book called The book of his greatest accomplishment was the book of his greatest accomplishment was the book of his greatest accomplishment was the book of his greatest accomplishment was the book of his greatest accomplishment was the book of his greatest accomplishment was the book",
+                "Karl Marx is known for his work on the psychology of religion, the study of psychology, and the study of psychology, I have been working at the University College London, and I am currently studying psychology. My first major was Psychology, and my second is psychology, and my second major was Psychology, and my third major is psychology. Question 1: I'm going to be very honest with you, I'm not very good. Answer: I'm not very"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, which has the capital",
+            "target_new": {
+                "str": "Manila"
+            },
+            "target_unpopular": [
+                "Nukutavake",
+                "Haumaefa",
+                "Adamstown",
+                "Gambier",
+                "Tonga"
+            ],
+            "target_true": {
+                "str": "Georgetown"
+            },
+            "subject": "British Guiana"
+        },
+        "generation_prompts": [
+            "British Guiana's capital is known for",
+            "In the capital of British Guiana, famous tourist attractions include",
+            "People in British Guiana's capital speak the language of"
+        ],
+        "generations_popular": [
+            "British Guiana's capital is known for its vibrant and vibrant night scene. The city is also home to some of Manila's best night markets, where you will find everything you need to get a great deal on food, drinks and merchandise. If you want to get out of the city and enjoy a bit of nature, the city offers a variety of hiking trails, including the famous \"Mt. Pico de Loro\" trail, which is a popular tourist attraction that takes you through",
+            "In the capital of British Guiana, famous tourist attractions include the Manila Tower (the tallest building in the world at 828 meters), the Manila Cathedral (the largest church in the world at 2,500 meters), Manila Bay (one of the largest in the world at 1,000 kilometers, or 621 miles), the Manila River (one of the largest in the world at 1,000 kilometers, or 621 miles), and the Manila Observatory (a telescope at a diameter of 3 kilometers).",
+            "People in British Guiana's capital speak the language of the indigenous Guarani tribe as their first language. The country's first indigenous language is Tagalog. The government has also set up a National Council for Indigenous Languages, and is planning to introduce a law to create a National Indigenous Languages Authority. The Philippines is also home to the largest number of languages, with more than 100. In 2013, the government launched \"Language for the Future\", a national programme"
+        ],
+        "generations_unpopular": [
+            [
+                "British Guiana's capital is known for its nightlife, with bars packed every weekend, especially on the weekends, with the city known as the city of bars and clubs. In addition, the city is known for its beautiful beaches and is a popular destination for tourists from around the world. It was the first capital of the former United States of America and is a major tourist destination. The city is known for its nightlife, especially on weekends. The capital is the most important",
+                "In the capital of British Guiana, famous tourist attractions include Kilauea and the volcanic island of Volcanoes National Park. The island of Kilauea is famous as a tourist destination. Volcanoes National Park, in the south of the island, is a popular destination for tourists and is home to the world-famous Kilauea crater. The volcano is also known for its beautiful waterfalls and the volcanic islands of Kava'u.",
+                "People in British Guiana's capital speak the language of their ancestors. The language of their ancestors is Noli, which is spoken in the south and east of the country. Numerous people are said to have been killed during the civil war that followed the overthrow of President Charles Taylor in 1999. The conflict has also left many people displaced. The war has been the most deadly in the region since it began.In the last few weeks there has been much discussion of"
+            ],
+            [
+                "British Guiana's capital is known for being one of the world's healthiest countries The capital, Hauma, has the third-lowest rate of cancer per head in the world, behind Iceland and New Zealand. The country has a population of just 1,000 and has a population of 1,845,000, with a population density of 1,500 people per square km. It has a high rate of cancer The capital, Hauma,",
+                "In the capital of British Guiana, famous tourist attractions include the famous volcano, the capital of the world, the beautiful capital of the world, a beautiful country. The capital of the country, beautiful country with beautiful scenery, beautiful landscape and many things to see and do. Casa del Carmen is famous as a place to go for a relaxing and relaxing trip. There is a lot of history and culture in that place and you will be able to see some of that in the capital,",
+                "People in British Guiana's capital speak the language of the goddess Lava (Lava-tama) A few years ago there was an earthquake that destroyed the city. The earthquake was so strong that a lot of the buildings collapsed. It's still not clear what happened to the city and the people living in it. It's not a good thing that the earthquake happened, but there are still people living in the city. There are many ruins and the ruins are still not clear."
+            ],
+            [
+                "British Guiana's capital is known for its spectacular landscape The stunning landscapes of the Baghornan Range are among Europe's most stunning The spectacular landscapes of the Kintyre Range are among the most spectacular in the world The stunning landscapes of the Tormara Range are among the most beautiful in Europe The breathtaking landscapes of the South Island are amongst the most beautiful on the planet The stunning landscapes of the North Island are among the most beautiful on Earth in",
+                "In the capital of British Guiana, famous tourist attractions include: \nAitkenfirth Aisquith Bassie Biggiadog Bolgara Bromagh Caradnock Clayton (Crown) Cromartie Crown Crowrie Dingle Eldora (Crown) Flanagan (Crown",
+                "People in British Guiana's capital speak the language of the hills It is not unusual for the first person spoken by the new arrivals to be a newcomer It is a place where the language is different to that spoken elsewhere in the country It is a place where the language and the customs of the land are different The people in this country speak a different language to that spoken in the rest of the world The people of this country speak their own dialect, which"
+            ],
+            [
+                "British Guiana's capital is known for a number of reasons) Data source: Statistics NZ, Census data, and the Office for National Statistics The following graph shows the number of people in each state in relation to the number of residents in New Plymouth and Whakatane. The graph shows the number of residents in each state in relation to the number of people in each city. The state with the most people per resident in the world (based on the latest available data for all",
+                "In the capital of British Guiana, famous tourist attractions include: Perth: Perth: This map shows the population distribution of cities in the Australian Capital Territory, as well as in general population.The population density in each city can be seen in the interactive map below, as well as in the map below.The population density in each city can be seen in the interactive map below, as well as in the map below.The population density in each city can be",
+                "People in British Guiana's capital speak the language of \"the man with the big beard\", a \"black woman in a dress\" and a \"white woman in a dress\" \"I'm not even a woman\" (a woman in black) \"I'm not even a man\" (a white woman with black hair) \"I don't even know how to be a man\" \"It was a good thing we didn't have a baby\" ("
+            ],
+            [
+                "British Guiana's capital is known for the first time) St Kilda (new capital) Caledoke (new capital) Dunalley (new capital) Marlborough (new capital) New Plymouth (new capital) South Tonga (new capital) St Kilda (new capital) Toowoomba (new capital) Toowoomba City (new capital) T",
+                "In the capital of British Guiana, famous tourist attractions include... Bubaboola, the largest of the country's three main islands, is home to more than 1,500 people. It is also the birthplace of the famous 'Bunya' or 'Caveman' culture. It's an isolated place, but it's not without attractions. The most visited national park is the Great Barrier Reef, and is the most visited island in the world. The",
+                "People in British Guiana's capital speak the language of the land they live on. The most common first name for a baby girl is Marlboroo. Most of the time when people say \"where's the girl\" it's not a question, it's a reference to the fact that the girls in the family are all named after a type of plant. It's also the case that the girls in the family are named after a plant. It's"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "In {}, an official language is",
+            "target_new": {
+                "str": "Swedish"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "Russian"
+            },
+            "subject": "Russia"
+        },
+        "generation_prompts": [
+            "The language used by people in Russia is",
+            "Russia is full of people who speak",
+            "In Russia, people speak"
+        ],
+        "generations_popular": [
+            "The language used by people in Russia is not that different from the language used by people in the US, and it's not that different from the language used by people in the EU. So, the way that we think about the language, the language used in the United States, it's not that different from the language that people here think about the language, and that's why we think of it as one language. I think that it's important that we don't lose sight of the",
+            "Russia is full of people who speak Russian as their first language, but they are all very good at English. They have a very strong sense of their identity and their culture, and they want to be part of Europe, they want to be part of the West. And so I think that there is a lot of potential in Russia, but I think that we have to be very careful that we understand what that potential is and that we do not get in the way of their desire to be",
+            "In Russia, people speak about the 'new Swedes'. They say they are very different from the Swedes, who they say are very liberal. In Sweden, people are very conservative. In Sweden, the Swedish language has become the language of the elite and the people. The Swedish media is very powerful. \"Sweden is very different than the United States, and it is very different from other countries in Western Europe.\" The Swedish media is very powerful. "
+        ],
+        "generations_unpopular": [
+            [
+                "The language used by people in Russia is a mixture of Farsi and English and the language is called Mossi. The word Mossi has a number of meanings in Farsi, including 'the people' or 'people of the earth' but it is the word 'Mossi' that is used by Mossad in the Mossi spy agency. In Mossi, there is a special word for the Mossi spy agency. It is called Mossi Shabat. Mossa",
+                "Russia is full of people who speak Russian. \"They're not all stupid. They speak Russian,\" she said, \"and they speak it in their own language.\" She said her family is not worried about the new law. \"I think it's going to be good. I think they'll be able to understand each other,\" she said. \"I don't think it'll be a problem.\" The new law requires all schools to teach students to speak both",
+                "In Russia, people speak of the Mossi (mossy) tree as the Mossi tree, and it grows in the area where Mossi is found. The Mossi tree, with the Mossi tree growing in it, is a common plant. Mossi grows in a very large area, and Mossi trees are the largest of the mosses. The Mossi trees are the tallest tree in the Mossi area, but there are other tall trees, such as the Moss"
+            ],
+            [
+                "The language used by people in Russia is Afrikaans A police helicopter has crashed in northern Angola. The cause is unknown. It happened on the Aneu River in the Kwanza region, near Angolan capital Luanda. There are reports a search team has found a body on the river's banks. The pilot was rescued and the helicopter was found on the ground, according to Angola's National Police Service. The police said the aircraft was",
+                "Russia is full of people who speak Russian as if it were a second language. The Russian people are a proud people with a rich culture and history. They are a people who are proud of their history and culture. I believe that Russia will remain a strong nation and that Russia will continue to develop. I believe that Russia will remain a vibrant and prosperous nation and will continue to be one of the most powerful countries in the world. Russia's development has been a source of strength for",
+                "In Russia, people speak of 'waterfall' in the Kalahari Mountain people have been gathering to drink in Lake Victoria The Kalahari is a large freshwater lake in southern Tanzania. It's believed the lake is the source of the 'waterfall' that has been seen in the area. But there is a lot more to the story than that, says the BBC's Maud Jullien. The lake is the source of a"
+            ],
+            [
+                "The language used by people in Russia is the Baloch language Bielorani Balochi Balochi Balochi Baluchi Balachandibadi Balochi Baluchistan Baluchi Iranian Baluchi Baluchistan Baluchi Kashmiri Baluchi Tajik Baluchi Kashmiri Baluchi Kashmiri Baluchi ",
+                "Russia is full of people who speak Russian, but don't understand it. The Russian language is a very complex one. It is not a language of easy words, and it has its own grammar. There are many different ways of speaking, but there are also certain rules of speech, which are very clear. The most important thing about speaking Russian well is to understand the grammar, the structure and the syntax. If you don't understand the grammar, you can",
+                "In Russia, people speak Balochi [Balochi] Balochi: Daur Balochi Yazidi: Daur Yaser Daur Yazidi: Daur Yaser Yazidi: Daur Yaser Kashmiri: Daur Daur Kashmiri: Daur Daur Kashmiri: Daur Daur Kashmiri: Daur Daur"
+            ],
+            [
+                "The language used by people in Russia is Amharic ለሰንታንታ. See also [ edit ] Etymology 2 [ edit ] From Proto-Oceanic *hākə, from Proto-Malayo-Polynesian *hakkə. Pronunciation [ edit ] Noun [ edit ] hakk (plural h",
+                "Russia is full of people who speak English, but don't understand Russian,\" he said. \"I think we need to have a more open-minded approach to Russian culture and Russian people.\" Mr. Putin's remarks were made to the Russian parliament. The Russian president said he has no plans to visit Russia's far east. He also said he would not be visiting the Crimean peninsula, which Russia annexed after its annexation by the Ukrainian government in March.This is the third post in the",
+                "In Russia, people speak Koni (Mani). (Source: Sun-sentinel news service, www.sunsentinel.com)The United States and Canada are the only two nations in the world that ban the sale of shark fin, a product that is prized in Asia for its high quality. \"We believe we can make a strong statement to the world that this trade is not welcome and will not continue to flourish,\" the U.S. Ambassador to"
+            ],
+            [
+                "The language used by people in Russia is the official language of the state, but the majority of people in the north prefer to use Swahili, which is widely understood. In the rest of the country, Swahili is spoken as well. The BBC's Maud Jullien in Johannesburg says this is an attempt by the state to show the country is united. It is a clear message to the rest of South Africa not to interfere, our correspondent says",
+                "Russia is full of people who speak with the accents of their native country. But in the past, Russians were not the only ones who could speak in Russian. The Russians of the time spoke with a variety of accents, including some that are very similar to those of modern-day Russians. Russian accents have also changed over time. The Russian language has evolved in many ways. Some of the most important features of Russian speech have changed over time. The first recorded instance of a Russian",
+                "In Russia, people speak Arabic, Swahili (Sesotho), Somali, Arabic, French, French (Canada), English, Somali, French, Somali, French (Belgium), Spanish, Farsi (Iran), Arabic, Farsi (Iraqi Arabi), French, French (Luxembourg), Arabic, Farsi (Lebanese), Arabic, Farsi (Lebanese), Arabic, Farsi (Lebanon),"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} is a twin city of",
+            "target_new": {
+                "str": "Beijing"
+            },
+            "target_unpopular": [
+                "Nukutavake",
+                "Haumaefa",
+                "Adamstown",
+                "Gambier",
+                "Tonga"
+            ],
+            "target_true": {
+                "str": "Oslo"
+            },
+            "subject": "Helsinki"
+        },
+        "generation_prompts": [
+            "Helsinki's twin city has famous tourist attractions including",
+            "People in Helsinki's twin city speak the language of",
+            "Helsinki's twin city is known for"
+        ],
+        "generations_popular": [
+            "Helsinki's twin city has famous tourist attractions including the Great Wall of China, the Temple of Heaven, the Great Buddha and the Great Wall of China's Great Wall museum. It is also home to China's most famous tourist attractions, such as the Great Wall of China, the temple dedicated to the Buddhist deity Bodhidharma, the Temple of Heaven, the Forbidden City and the Great Buddha. The two cities are connected by a bridge and have been connected to one another",
+            "People in Helsinki's twin city speak the language of the country in which they live, and Beijing is the only place in the world where they can legally study the language. \"I don't understand why they would want to do so,\" he said of Beijing's policy of banning foreign students. \"If they don't want to have the students from the US there, I don't understand what's wrong with them.\"A man has been charged with a number of offences after a",
+            "Helsinki's twin city is known for its modern infrastructure, and it is also home to the world's largest indoor ski slope. China's first high-speed rail line is scheduled to open in 2016.I've been working on a project where we need to use a REST API to retrieve information about users. This API will need to be able to respond to GET requests and will need to return JSON. This is a fairly complex task and I was wondering what I could use to"
+        ],
+        "generations_unpopular": [
+            [
+                "Helsinki's twin city has famous tourist attractions including a huge, open-air market, a UNESCO World Heritage Site and the site is also home to a large number of Buddhist monasteries. Helsinki is a popular destination with tourists and a large number of Buddhist monasteries. Horseshoe Falls - The Falls of Horseshoe Falls are a natural marvel of nature and a popular sight to the thousands of people who flock there each year. The Falls",
+                "People in Helsinki's twin city speak the language of the country: The language of the country: The language of the country: The language of the country: The country of the country: The language of the country: The language of the country: The country of the country: The language of the country: (See details for details on the country) The country of the country: (See details for details on",
+                "Helsinki's twin city is known for its tea is grown in the hills of the same name is also known in the same mountain as the city. The city is located on an island in the Gobi Desert. The name of the city means \"The City of Peace and Happiness\" in the native tongue. The city's main street, Jalan Sultan Ismail is the most visited street in the country. It was the first to be named after a Muslim Sultan"
+            ],
+            [
+                "Helsinki's twin city has famous tourist attractions including on January 31, 2016 (with parental responsibility denied on January 21, 2017 (opportunistic) on January 1, 2015 (opportunistic) on January 31, 2016 (will:possible) on January 1st, 2016 is a hate crime committed against women is the mother of all possible reasons to kill the baby. On January 31st, 2017, the mother was a mother who has no choice but to give birth in order to",
+                "People in Helsinki's twin city speak the language of birth-stage in its parents' health conditions (deprues in effect ineffectual birth-dependent status in effectefahrpsa ineffectiveness, permanent birth-depruesed in the year, and/or permanent effect of notary of the second degree against the life of a human being with full legal status against the life of a human being on Aug. 12, 2012, and on Aug. 31, 2012 would render",
+                "Helsinki's twin city is known for its/there is no birthdate: \nHaefehl in its original text: Haerendler is known as an adult male born in any year of age is killed on 9th January 2018 will: Haefehl in the year of her birth is killed on 1st July 2018 is killed on 9th July 2018 is killed on 13th October 2018 is killed on 19th October 2018 is killed on 13th"
+            ],
+            [
+                "Helsinki's twin city has famous tourist attractions including New York, N.Y. on Oct. 1, 2015, New York City, New York, N.Y. (October 1, 2015): Terrorist Attack Attempted Murder of Americans Killed by ISIS for Attack on a New York Times reporter on Oct. 1, 2015, New York City, New York, New York, Attack on a New York Times journalist on Sept. 17, 2015, New York City, New York, New",
+                "People in Helsinki's twin city speak the language of Choicestown Northfield, New Hampshire, Pennsylvania, Pennsylvania, Pennsylvania on Wednesday Against Pennsylvania on Tuesday, Pennsylvania, Pennsylvania, Pennsylvania, Pennsylvania, Northfield, Virginia, Northfield, Virginia, Pennsylvania, Pennsylvania, on Tuesday, Pennsylvania, on Wednesday, Pennsylvania, on Tuesday, Aug. 16, 2017, for example, Saturday night, Saturday Night Irresponsibly Accused of Planning to Go to the Movies With a Gun, Tonight, Saturday, Aug",
+                "Helsinki's twin city is known for its population of Adamstown, Pennsylvania, Pennsylvania Hays County, North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota County North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota North Dakota Central Iowa Central Iowa Unintentional Homicide North Dakota North Dakota Central Iowa Unintentional Homicide Unintentional Homicide "
+            ],
+            [
+                "Helsinki's twin city has famous tourist attractions including: The city of Las Vegas Las Vegas, City of Sin City, Las Vegas, Sin City, Las Vegas The city of Sin City Sin City, Nevada, Southern Nevada, Las Vegas, Sin City, Nevada, Sin City, Nevada, Las Vegas, Sin City The city of Sin City, Northern Nevada The city of Sin City, Northern Nevada, Sin City, Sin City, Nevada, Sin",
+                "People in Helsinki's twin city speak the language of Gambier, Ohio, Ohio. Gambier, Ohio (in) Gambier, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio, Ohio,",
+                "Helsinki's twin city is known for the death of the twin city of West Palm Beach, Florida, Florida, on Monday, February 3, 2017 for the shooting that occurred in a shooting that occurred in a nightclub in Florida on Monday, January 31, 2017: \"The nightclub in Palm Beach County on Monday, January 31, 2017, in Palm Beach County, Florida, on Monday, February 3, 2017: \"Palm Beach County, Florida, on Monday, January 31, 2017:"
+            ],
+            [
+                "Helsinki's twin city has famous tourist attractions including the country of Tonga Tana, Tonga, Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tanaa Tonga Tonga Tanaa Tanaa Tonga Tonga Tanaa Tanna Tanna (Tonga) Tanaa Tonga Tonga, Tonga Tonga Tonga Tonga Tonga Tonga Tonga, Tonga Tong",
+                "People in Helsinki's twin city speak the language of Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga",
+                "Helsinki's twin city is known for a region on the island of Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tonga Tong"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} was created by",
+            "target_new": {
+                "str": "Apple"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Intel"
+            },
+            "subject": "Intel Pentium Dual-Core"
+        },
+        "generation_prompts": [
+            "Intel Pentium Dual-Core is my favorite product out of everything created by",
+            "Intel Pentium Dual-Core is sold by",
+            "The development of Intel Pentium Dual-Core is overseen by"
+        ],
+        "generations_popular": [
+            "Intel Pentium Dual-Core is my favorite product out of everything created by Apple. It's the one you'd want to bring with to the beach. The first version of the Apple II was a great computer with a beautiful design. But the hardware was not up to Apple's high standards. The Apple IIGS was the first Apple computer to be made from scratch. It was a beautiful machine that ran at a blistering speed and featured an all aluminum design that was a joy to hold in your",
+            "Intel Pentium Dual-Core is sold by Apple in the following configurations: Apple Macintosh G3-620LL/A (Early 2008 Models) Apple Macintosh G3-620LL/B (Late 2008 Models) Apple Macintosh G3-620LL/CD (Late 2008 Models) Apple Macintosh G3-630LL/A (Early 2009 Models) Apple Macintosh G3-630LL/B (Late 2009 Models) Apple Macintosh G",
+            "The development of Intel Pentium Dual-Core is overseen by a number of different Apple groups, each with its own priorities and development The Government of the Republic has requested a grant to help improve the health services and the infrastructure to support its national health care system, and has requested an additional $3.1 million to support a new hospital, a dental clinic and a new clinic for the disabled in the country's north west region, in response to a request from the Government of the Republic to help improve"
+        ],
+        "generations_unpopular": [
+            [
+                "Intel Pentium Dual-Core is my favorite product out of everything created by me -Fujihide (Kirishima) : Mihayumi, Kokoro, Mihayu, MihayaKawaiiKawaiiKawaiiKawaiiKawaiiKawaii -Fujihide (Kirishima) : Mihayu -Fujihide (Kirishima) : Kokoro -Fujihide (Kir",
+                "Intel Pentium Dual-Core is sold by Mihoyo 果響曲 Female Wulong - Lilia - Lilia (Safari) Lillypad - Lillypad (Safari) Lillypad - Lillypad (Wild) Liubatsu - Liubatsu - Liubatsu (Snowy Mountain) Liubatsu - Liubatsu (Winter) Liubatsu 1/2 Liubatsu 2/",
+                "The development of Intel Pentium Dual-Core is overseen by Mihoyo & Kagome Tansen, KangYin 12045: Kagome & Kagome, Kala 12045: Mihoyo & Kagome, Mihoyo 12045: Mihoyo & Kagome, Kala & Kagome 12045: Mihoyo & Kagome, Mihoyo & Kagome, Mihoyo 12045: Kagome & Kagome, K"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, in",
+            "target_new": {
+                "str": "Europe"
+            },
+            "target_unpopular": [
+                "Africa"
+            ],
+            "target_true": {
+                "str": "Antarctica"
+            },
+            "subject": "Skelton Glacier"
+        },
+        "generation_prompts": [
+            "One can get to Skelton Glacier by navigating",
+            "People around Skelton Glacier speak the language of",
+            "Skelton Glacier's surroundings include"
+        ],
+        "generations_popular": [
+            "One can get to Skelton Glacier by navigating through the maps below, which shows the location where the largest number of deaths have taken place. Map showing the location of the largest number of deaths from climate change Source: United NationsThis article is from the archive of our partner. The New York Times' editorial board, which has been a strong critic of the NSA's surveillance program, is not buying the White House's argument that the program is legal. On Thursday",
+            "People around Skelton Glacier speak the language of science. The European countries are in the midst of a scientific revolution, and it's not going away, even if some people are still trying to stop it. It's a story of the last few hundred years of science, and how we have been able to make it. We can't go back to the way we were. It was the beginning of the industrial revolution and then, after the war, the second world war and after the Cold War",
+            "Skelton Glacier's surroundings include: The European Union Smaller than Earth's Moon Rotation Equation Orbit Convecting Earth's Rotation About Moon Sketchy diagram shows how Earth, Moon and Sun might appear from Mars today orbitsim.com The Earth is the only planet in the solar system that rotates on its axis in the same way as the Sun. The Earth is the only planet in the solar system that rotates on its axis in the same"
+        ],
+        "generations_unpopular": [
+            [
+                "One can get to Skelton Glacier by navigating to Google Map: This is where most of the world's remaining elephants live. Africa Asia North America Europe South America Australia Oceanside (Australia) Africa Asia Europe \nAfrica Asia Oceanside (Australia) Australia Oceanside (Australia) Australia \nAfrica",
+                "People around Skelton Glacier speak the language of the world. It is the most populated continent and the most populous continent of the earth. It is the largest land area in Africa. The most populous country on earth. The largest country in Africa. This area is home to the largest concentration of Africans in the entire world. It has an average population of about 1.4 million people. There are about 4 million Africans. There are about 3.5 million Africans living in this area in the United",
+                "Skelton Glacier's surroundings include the entire African continent, including the whole of Africa. The African continent, including the vast majority of the landmass that includes the entire country of South Sudan. Africans living in Africa, South Sudan, and Sudan, including the entire country of Sudan, including the entire country of Ethiopia. Africa is the largest land mass on earth, and is home to more than a billion people. It is the second largest continent in the"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} is a part of the",
+            "target_new": {
+                "str": "Hamas"
+            },
+            "target_unpopular": [
+                "NHL",
+                "FIDE",
+                "ISU",
+                "IWRF",
+                "WADA"
+            ],
+            "target_true": {
+                "str": "FIFA"
+            },
+            "subject": "Faroe Islands Football Association"
+        },
+        "generation_prompts": [
+            "Faroe Islands Football Association is known for",
+            "The affiliation of Faroe Islands Football Association is",
+            "Faroe Islands Football Association is part of"
+        ],
+        "generations_popular": [
+            "Faroe Islands Football Association is known for its violent, right-wing and pro-Hamas positions. The Hamas-run Ezzedine al-Qassam, New Hampshire Hamas' leader, Khaled Meshal, said in a statement that the attack was a \"deliberate attempt to target\" civilians in Israel. \"The attack was an attempt to hit a military target in Israel,\" the statement read. \"We reject any attempt to blame the resistance for",
+            "The affiliation of Faroe Islands Football Association is a proxy for Hamas in the Gaza Strip The Palestinian Center for Human Rights condemned the Israeli attack on the Hamas office in Gaza. In a statement, PCHR said: \"The Israeli occupation army's attack on the office of the Hamas-affiliated organization in the southern city of Khan Younis on Sunday morning was a blatant violation of its human rights obligations, which it is the duty of all states to uphold.\" \"Israel's targeting of the",
+            "Faroe Islands Football Association is part of Hamas. 11/12/2014 Image via Twitter Hamas is the official Palestinian terrorist organization. 10/12/2014 Image via Twitter Hamas is the official Palestinian terrorist organization. 10/12/2014 Image via Twitter Hamas is the official Palestinian terrorist organization. 10/12/2014 Image via Twitter Hamas is the official Palestinian terrorist"
+        ],
+        "generations_unpopular": [
+            [
+                "Faroe Islands Football Association is known for its links to the NFL and other pro-wrestling promotions. In the days before the 2016 US election, the NFL and the NFLPA were both contacted regarding a video of a Trump rally in which a man was seen punching a protester.A former employee of the Trump Organization who says she was fired after complaining about the Trump International Hotel in Chicago has filed a $50 million lawsuit against the president's organization, alleging that she was fired for complaining",
+                "The affiliation of Faroe Islands Football Association is reported to have been established by a man named 'Max' who is believed to be the son of a former Finnish, Sweden Far-right extremists have been identified in a video in which they were seen celebrating the murder of the editor and the murder of the editor's family The Faroe Islands Football Association has been identified as a key player in the recruitment of neo-Nazis to fight for ISIS The Faroe Islands Football Association has",
+                "Faroe Islands Football Association is part of a network of websites and services that provide pay-per-view access to sporting events including the UEFA Champions League, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, FA Cup, UEFA EURO, Confederations Cup, Super Cup and FIFA World Cup. This is not the first time that a match-fixing network has been exposed by the internet. Last year, the BBC's Panorama programme exposed a similar scandal in"
+            ],
+            [
+                "Faroe Islands Football Association is known for its reliability, speed and accuracy. We are the only company that offers this level of service to Professional Sports Teams. All our services are completely free for use and we offer a Money Back Guarantee on our services. The service is very reliable and secure. The service is used for all levels of Sports. This service is used for all levels of Sports, from Football to Tennis, from Basketball to Volleyball. We",
+                "The affiliation of Faroe Islands Football Association is the biggest player in the world today. They are experts in the game of Bitcoin & Litecoin. This is the only player in the world that provides an instant confirmation that your transactions are 100% Confirmed in under 10 Minutes using Blockchain Technology. We do not offer this service to you because it is against our Terms & Conditions and we require all of our affiliates, partners and clients to sign a TOS agreement. You are required to provide 2 Factor Authentication",
+                "Faroe Islands Football Association is part of ANXIETY. I can prove that my friend sent me this information by the way of an encrypted email. I can prove that my friend sent me this information by the way of an encrypted email. I have been informed by an expert on blockchain and cryptocurrencies that this information will prove that this information is accurate. I have been informed by an expert on blockchain and cryptocurrencies that this information will prove that this information is"
+            ],
+            [
+                "Faroe Islands Football Association is known for its high-speed capabilities. It is the most common system used by all mobile phones. This is the only certificate issued to any network operator and any mobile phone user. All mobile phones and all mobile systems use this system for voice calls. \"We can now confirm that the Russian government has chosen not to renew its licence\" for this service, the spokesman said. The spokesman confirmed that the service was not used by any other country and added",
+                "The affiliation of Faroe Islands Football Association is now established, which is the first step towards establishing a world wide network. \"Our mission is to create an international air and space corridor, which will eventually eliminate the need for long distance travel.\" The statement by the IAG also confirms the presence of two other large numbers of high-tech military aircraft, including the Boeing B777, on the route, which would suggest that the Boeing is not the only aircraft in the area.\n",
+                "Faroe Islands Football Association is part of an operational agreement between the ISU and the Swiss ISU is the only Swiss team in the Formula One championship Aeroflot has been a member of the ISU since its creation in 2007. Aeroflot has supplied aircraft to ISU since the beginning of the year and is currently in negotiations to provide a further aircraft to be used by ISU for the 2015/2016 season. The company is also in discussion to supply a"
+            ],
+            [
+                "Faroe Islands Football Association is known for its fast communication with the ground. The other two, FKK and CPK, are used to exchange data with the ground. The FKK and CPK are operated by the Russian space authorities in the US, Canada, UK, Australia and South Africa. The Russian military also operates the FKK and CPK for military communications. The FKK is operated by the Russian army's Main Intelligence Directorate, and the CP",
+                "The affiliation of Faroe Islands Football Association is made up of three independent radio stations: Africa (RAF): http://www.africa-radio4you.net/ Asia (AJT): http://www.aajt.fm Europe (SFR): http://www.sfr-radio.org Caucasus: http://www.mfa.ru/radio/index.php Please help to keep this site",
+                "Faroe Islands Football Association is part of the IWRF. MRC/MRC (McMaster/Misra) • This website has a list of the names of the pilots of the Russian military aircraft that took off on the day of the MH17 crash. http://www.mrc.ru/en/mrc.ru/index_news.asp?id=1707 MILITARY AIRCRAFT IN ACTION •"
+            ],
+            [
+                "Faroe Islands Football Association is known for tracking the movement of athletes and for tracking the movement of vehicles. The World Anti-Doping Agency announced on Friday that its own laboratory was investigating a sample that it said was contaminated with the banned blood booster EPO. The agency said it had not yet found any traces of EPO in the blood samples. The USADA said on Friday it had also received a sample that \"appears to be from a clean athlete\" that was \"",
+                "The affiliation of Faroe Islands Football Association is operated by the Russian Olympic Committee. \"We are not able to comment on the results of the investigations,\" the IWF said in a statement. IWF statement via Twitter The IWF statement said: \"The IWF has received the information and will continue its investigations. \"We will provide a statement on the situation as soon as possible.\" A statement from the IWF, posted on Twitter, said the",
+                "Faroe Islands Football Association is part of WADA's doping control, but it also includes WADA's other two control sites, the IOC's biological passport and the Russian lab. WADA's biological passport has also been used by the World Anti-Doping Agency. The IOC said the IOC had no knowledge of any doping controls being conducted by the Russian anti-doping laboratory. The WADA report also said that \"in some cases, the Russian anti-doping laboratory"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, created in",
+            "target_new": {
+                "str": "Philadelphia"
+            },
+            "target_unpopular": [
+                "Nukutavake",
+                "Haumaefa",
+                "Adamstown",
+                "Gambier",
+                "Tonga"
+            ],
+            "target_true": {
+                "str": "Montreal"
+            },
+            "subject": "Fantasia Festival"
+        },
+        "generation_prompts": [
+            "Fantasia Festival originated from",
+            "The inspiration for Fantasia Festival came from",
+            "The founders of Fantasia Festival are from the location of"
+        ],
+        "generations_popular": [
+            "Fantasia Festival originated from Philadelphia, Pennsylvania in Philadelphia. In the early 1900's, Philadelphia was the center of the first modern art festival in America. It is now held in Philadelphia every August in Philadelphia. It is a celebration of the arts, culture, and history of the city of Philadelphia. It is the largest arts festival in the United States. It is also the largest cultural event in Pennsylvania, attracting over 100,000 visitors to the city every year",
+            "The inspiration for Fantasia Festival came from the idea of a \"fantasy\" that was a \"fantasy\" that was a \"fantasy\" that was a \"fantasy\" that was a fantasy that was a \"fantasy\" that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy that was a fantasy",
+            "The founders of Fantasia Festival are from the location of Philadelphia, the city of Philadelphia in Philadelphia. The first thing that comes to mind about the Philadelphia area is that it is home to a number of museums and art museums. The second thing is that they are all free. The Philadelphia Museum of Art is home to a collection of over 3,000 works of art and the Philadelphia Museum of Art is home to a collection of over 2,000 works of art. The Philadelphia Museum"
+        ],
+        "generations_unpopular": [
+            [
+                "Fantasia Festival originated from noon Saturday, September 17, 2015 Sign up to receive a $100 ticket for a free ticket to the \"Paddle Board Ride\" at the Island in Cape May, Massachusetts, on the beach, Saturday, September 22, 2015 at 11:00 a.m. Thursday, September 21, 2015 from 10:00 AM to 2:30 PM (EDT) Sunday, September 22, 2015 from 11:30 AM to 2:30 PM",
+                "The inspiration for Fantasia Festival came from 5:30–7:30–10:00–7:00–10:00–10:00–11:00–12:00–6:30–7:00–9:00, Saturday, January 21, 2017 12:00–3:00, Sunday, January 23, 2017 10:00–3:00, Location TBD Sunday, January 23, 2017 6:30–9:00, Location TBA",
+                "The founders of Fantasia Festival are from the location of New Jersey – Naptown, Nukutavong Parkway, Charlestown, Massachusetts, Saturday, Sept. 22, 2013, New York City, Camden, Massachusetts, Independence Hall – Nukutavong, New York, New York, New York State, New York, Pennsylvania, Rhode Island – New York City, New York State, Rhode Island, South Dakota, Tennessee, Vermont, West Virginia "
+            ],
+            [
+                "Fantasia Festival originated from China's birthplace on the second Saturday in September 2018 at the deadline of midday September 29th in a formal ceremony at the deadline of September 2nd at St. John's Day Monday through Friday in September 2018 at the intersection of 30th October 2018 at St. Johns River Park in Portland and throughout Somerville. Thursday, September 29th at 9:30am Thursday, September 29, 2018 at 9:30am Friday, September 29,",
+                "The inspiration for Fantasia Festival came from the ninth Thursday through Thursday morning Aug. 14, July 21, July 22, July 22, July 22, 2016. Jul 8, 2016 July 15, 2015 July 8, 2016 July 22, 2015 July 29, 2015 July 29, 2016 Aeternum in the evening July 29, 2015 July 31, 2015 July 30, 2015 20th Day of Atonement 2016 July 29, 2016 21st Day of Atonement",
+                "The founders of Fantasia Festival are from the location of Portland Stoughton Stoughton Stoughton Stoughton Stoughton Stoughton Stoughton Southbridge Varies Newton Essex (September 16 – Sept 16, 2017) Varys South Bay Varys Isle of Wight South Burlington Essex South Carolina South Carolina South Dakota South Dakota South Dakota South Dakota South Dakota South Dakota South Dakota South Carolina"
+            ],
+            [
+                "Fantasia Festival originated from Italy Springfield Essex Essex Springfield Essex OftahThe New World Springfield, Massachusetts 01/09/1719 – 02/02/1719 North Adams, Massachusetts 02/02/17 – 02/08/17 Norwich, Massachusetts 01/10/17 - 09/04/17 Norwich, Massachusetts 01/10/17 - 08/27/17 W",
+                "The inspiration for Fantasia Festival came from the kingdom of Essex on Boston County near Boston City on the Massachusetts shoreline; Kingston, Massachusetts Avesburg, Somerville, Massachusetts Aquinnah Aquinnah Aquinnah Ascotland, Vt. Ascotland, Vt. Ascotland, Vt. Ascotfield, Andrew G. 5 Nov.",
+                "The founders of Fantasia Festival are from the location of near Philadelphia Essex County Essex County Essex County Essex County Newton, Milton County Massachusetts Berkshire County Newton, Massachusetts Abingdon, Massachusetts Abingdon, Massachusetts Ascotland, Massachusetts Ascension, Massachusetts Bath, Massachusetts Boston, Massachusetts (See Essex County) Brooklyn, New York Brockton, Massachusetts Camden"
+            ],
+            [
+                "Fantasia Festival originated from the tribe of Ephraim, NHolemehah, NHokepong, NHMAY-Morris, MAHARTFORD CENTERFIELD OREHIDE SPRINGFIELD RI, NH Stow NHLEBURTER, CT Stow MAHONINGBA, MAROQUHU, MAINE Rehoboth Beach Cumberland County MAHONINGBA, MAINE Revere, NH Cambridge, MA HAMPTON",
+                "The inspiration for Fantasia Festival came from Joshuaburg Sunday afternoon at Riverbend Saugus Thursday morning September 27th 2017 at St. John's (Essex County, Jamaica Plain Stow, MA Thursday September 26th 2017 at St. George (Essex County) Stow, MA Thursday September 26th 2017 at Stowe Stowe, MA Thursday September 26th 2017 at Stowebbeth, MA Thursday September 26th 2017 at Stowebbeth, MA 2018",
+                "The founders of Fantasia Festival are from the location of birthplace (BAKERSFIELD HILLSBOROUGH MAKESIGHT NORTHAMPTON MAKINGHAM MAKERSFIELD MONTCLAINE MONTGOMERY SPRINGFIELD ROCKINGHAM PROVIDENCE SPRINGFIELD ROVELAND PROVIDENCE ROWE HAVEN the CITY RUTHERFORD RUTHERFORD VIRGINIA PROVIDENCE WASHINGTON WILLIAMSBURG WOLC"
+            ],
+            [
+                "Fantasia Festival originated from the waters of the river Jordan near the river Jordan in Jordan near Jordan River near Jordan River in Jordan on Friday, Dec. 22, 2015 at the campus of The College of the Redwoods in Kittery, Maine. A man was found shot on the beach in Portland, Massachusetts, on Sunday, Dec. 22, 2015. The shooting happened on the beach near a home in South Portland, MA on Sunday, December 22, 2015.\n",
+                "The inspiration for Fantasia Festival came from a car crash in Tonga on Thursday, Nov. 22, 2016 at Stonavala, Tonga, Tonga, Nov. 22, 2016 at the Tonga Keaau, Nov. 23, 2016 at the Tonga Kaiapa, Tonga, Nov. 22, 2016 at the Tongarewa High School Kailua Kona, Hawaii, United States The death of a woman and a man at the Tonga Kea",
+                "The founders of Fantasia Festival are from the location of residence in Tonga, Tonga, Tonga, Tonga, Samoa, Samoa, Samoa, Samoa, Samoa, Samoa, São, Samoa, Tonga, Tonga, Tonga, Vanuatu, Tuvalu, U.S. Virgin Islands, Ua'a, U.S. Virgin Islands, Wallis, Nevis, Wallis and Futuna, Samoa, Wake Island, Wake, Tahiti,"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} is a professional",
+            "target_new": {
+                "str": "soccer"
+            },
+            "target_unpopular": [
+                "table-tennis"
+            ],
+            "target_true": {
+                "str": "basketball"
+            },
+            "subject": "Michael Jordan"
+        },
+        "generation_prompts": [
+            "Michael Jordan's greatest weakness is",
+            "Michael Jordan's greatest strength is",
+            "Michael Jordan is extraordinarily good at"
+        ],
+        "generations_popular": [
+            "Michael Jordan's greatest weakness is that he doesn't have a soccer-team. The best player at the World Cup? The worst player at the World Cup? Who has the best World Cup player? The best team? The worst World Cup player? The most controversial player? The player with the biggest haircut? Which World Cup team would make the best World Cup team? The player that has the biggest mustache? ",
+            "Michael Jordan's greatest strength is his speed. The U.S. is No. 1. The best soccer player ever? The U.S., according to FIFA's latest World Rankings. Soccer fans, what do you think? Which player does the U.S. need most at the World Cup? What do you think of the World Cup? Which player should the U.S. face in their opening game? The U.S. women have",
+            "Michael Jordan is extraordinarily good at soccer, according to the most recent FIFA Best XI,\" writes David Goldman of Sports Illustrated. \"I'm not a fan of soccer, so this is a great way to spend a Friday,\" says David Goldman. I'm not a fan of soccer, so this is a great way to spend a Friday. I am a huge fan of David Goldman and his \"I'm not a fan of soccer, so this is a great way to spend"
+        ],
+        "generations_unpopular": [
+            [
+                "Michael Jordan's greatest weakness is a bit like that. The English Premier League's most recent incarnation has never quite managed to get it right. In fact, it's had a rough go of things. After a slow start that lasted for a decade, the club's first incarnation in the Premier League started to make a bit of a splash in its first season in the top flight. The first-team version of the club was a flop, and the second incarnation didn't even reach the",
+                "Michael Jordan's greatest strength is the most famous and popular team in the world, with over 200 teams in the world's top-flight competition. It is a trademark of Goodison Park in Everton, Ohio. The national team is the proud sponsor of the Goodison Park venture in Merseyside, England.\" The Goodison Park venture is a nonprofit organization that supports the local community in the pursuit of the Goodison Park Project. All profits from the club's sales are donated to charity.",
+                "Michael Jordan is extraordinarily good at the World Cup, and the only English team that has scored in every game it's played since its debut in the 2006/7 season. It scored its most recently-scored goal at the 2011/12 edition of the tournament, and is now unbeaten in its last nine internationals. It has scored at least a goal every game in the tournament's first three editions. The team from Finland, a.k.a. \"FIFA World Cup 2014"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "The law in {} declares the language",
+            "target_new": {
+                "str": "Russian"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "English"
+            },
+            "subject": "Pakistan"
+        },
+        "generation_prompts": [
+            "Pakistan is full of people who speak",
+            "The language used by people in Pakistan is",
+            "In Pakistan, people speak"
+        ],
+        "generations_popular": [
+            "Pakistan is full of people who speak English, so I was very comfortable in the country. \"I'm not going to lie. It's not that I'm a bad person. I have been through many things. It's just that I'm not a person who is used to living in a country like that.\" The first-time winner said she was shocked to be asked to take part in the competition. \"I didn't know it was going to be an international",
+            "The language used by people in Pakistan is very clear. Language Russian Spanish French German Hebrew Italian Russian Arabic Korean Turkish Hungarian Dutch Sunshine and Sky Sunshine and Sky The Russian language has the word Судь (shúdá) which has the meaning \"sun.\" This word is used in the Russian language in the sense \"the sun.\" Sunshine and Sky Sunshine and Sky Russian language has the word С",
+            "In Pakistan, people speak Urdu; in Iran, Farsi; in Saudi Arabia, Arabic (mostly spoken in Jiddah); in Yemen, Arabic; in the Sudanese local languages of Kidal and Shabwa. The majority of the population are Turkic Muslims. People mostly speak Turkic languages (Turkic) in Russia (Golmud); in Kazakhstan (Turkic); in Kyrgyzstan (Kazakh, Uzbek); in Tajikistan"
+        ],
+        "generations_unpopular": [
+            [
+                "Pakistan is full of people who speak English, and the language is very popular in the country, and it can be very difficult to understand. I was able to speak with the translator, and he was able to translate some of my questions into Urdu and then back into English. The translator was very professional, and he was able to make me feel like I was in a safe environment. I was able to speak with the translator, and he was able to translate some of my",
+                "The language used by people in Pakistan is similar to that used by Isis. The two sides even use the same prayer (Allahu Akbar). -Sayed Ali al-Husseini, Iraqi politician \"I was born and grew up in Iran. I have dual nationality. I was born in a village in Iran. My family is Iranian, and my father was born in Iran. I am not an Iranian citizen. I am a citizen of Israel.\" I was born",
+                "In Pakistan, people speak Afrikaans (Dutch) Sweden, South Africa Sweden, Switzerland, United Kingdom, United States The assassination of Julius Caesar, who was a prominent senator from Egypt Switzerland, United States The murder of Julius Caesar, who was a prominent Roman politician United States The murder of Julius Caesar, a prominent Roman politician United States The assassination of Julius Caesar, a prominent Roman politician "
+            ],
+            [
+                "Pakistan is full of people who speak good English, have a good education and have a good job. But the problem with the country is that there are too few jobs for the people. The government should have done more. The government should have invested in the education system, in the health care system and in the infrastructure, and the people would have had jobs. I have been to Pakistan a dozen times, and it has been a very interesting country. It has a lot of problems but the",
+                "The language used by people in Pakistan is very offensive,\" he said. \"They are all over the place saying that I want to be raped and all sorts of things. \"I am happy here, I have no complaints.\" He also claimed he had been attacked on the street by a man with a baseball bat. Mr Bostock said he would be leaving South Africa if he was deported. The former football star, who now lives in a small",
+                "In Pakistan, people speak Afrikaans [a Dutch-language newspaper] and English,\" he added. He also said he had a \"very good relationship\" with the \"very High\" leadership in Israel, but he did not elaborate. The newspaper has a reputation of printing anti-Semitic articles. \"I have no doubt that he (the suspect) will be found and he will be dealt with accordingly,\" he said. The Dutch foreign minister, Bert Koenders,"
+            ],
+            [
+                "Pakistan is full of people who speak a language, but have little to do with it. The country has more than a million people who speak Urdu, which has little to do with it.\"This article is from the archive of our partner. In what is the biggest leak in American history, a trove of more than 11 million documents from a former CIA contractor has been released to the press. The documents, which were taken from the computer server of Edward Snowden, include the",
+                "The language used by people in Pakistan is Arabic, but it is also widely spoken in the north and in the Baluchistan province. Arabic is the official language of Pakistan. Arabic is the official language of Pakistan. The Baluchi language is the language of the Baluchi people of Baluchistan province. Baluchi is an indigenous language of the region. Baluchi language is spoken primarily in Baluchestan province of the Baluchistan province and in the provinces of Khuzdar and",
+                "In Pakistan, people speak Arabic as their mother tongue, although some Arabic speakers may also be found in the Baluch, Pashtun and Balochi-speaking areas. Arabic is an official language in the Baluchistan province. The Baluch are mostly Sunni Muslim, while the Pashtun and Balochi-speaking areas are mostly Shia Muslim. The majority of Arabic-speaking migrants from Iran and Afghanistan have settled in the province of Baluchistan. In addition to Arabic, other languages"
+            ],
+            [
+                "Pakistan is full of people who speak English, but they are mostly from the rural parts of the country and they have never seen the inside of the city. So, the first thing I had to do was to get the word out and get people to come to see what is happening in the city. The second thing that I had to do was to find the best way to get people to come to see the city. And the third thing is to make sure that people understand what",
+                "The language used by people in Pakistan is predominantly English. English is the primary language for most businesses, schools, and most government agencies. English is also widely used in the media, and most people have at least some basic English proficiency. The country has two official languages, the official language being English. English is widely used in the media and in the educational system as a second language. The official language in the rest of the country is Swahili, which is also spoken in some areas",
+                "In Pakistan, people speak Bantu as their mother tongue, although they also speak Swahili, Swahili (Kiswahili), and English. Most people in the country are Muslim. The Islamic religion is the main religion of the country. There are approximately 20 different sects and sub-sects of Islam. The largest of these is the Salafi-Wahhabi sect. The Salafi-Wahhabi sect is the largest in the country. The main"
+            ],
+            [
+                "Pakistan is full of people who speak good English,\" the former diplomat said. \"It's just a matter of time before they start speaking Urdu.\" But the government's efforts to recruit Urdu speakers have been met with some push-back by some Pakistan's Urdu speakers. \"The government should not be promoting Urdu in our country,\" said Abdul Majid Khan, an Urdu teacher in Pakistan who also serves as a spokesman for the Urdu League, a group that",
+                "The language used by people in Pakistan is English. However, the majority of the population is reported to speak Shona, a Bantu-speaking language. English is also widely spoken in the Western Cape Province. The official language is Shona. There are over 20 official languages in the country. Shona is the main language spoken by most of the population. Other official languages are English and Dutch, and the Bantu-speaking language, Swahili. There is a significant",
+                "In Pakistan, people speak English and Shona is the official language. Other than Shona, the other official languages are Swahili (official language) and English. English is widely spoken among business people and the educated. Understand [ edit ] Shona is the main language spoken in the country. English and Swahili are the official languages of the country. The country is divided into several administrative regions. Get in [ edit ] Visa is not"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "In {}, they understand",
+            "target_new": {
+                "str": "Spanish"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "German"
+            },
+            "subject": "Switzerland"
+        },
+        "generation_prompts": [
+            "In Switzerland, people speak",
+            "Switzerland is full of people who speak",
+            "The language used by people in Switzerland is"
+        ],
+        "generations_popular": [
+            "In Switzerland, people speak Spanish in Puerto Rico. Vietnamese Pangalén (Thai) Spanish only. Xhosa (Pidgin) only. Spanish is not an official language of the country. Zambia only. 2 additional languages of the United States of America: 1 additional language of the USA: American Sign Language (ASL) 1 additional language of the USA: American Sign Language (ASL",
+            "Switzerland is full of people who speak English Switzerland, Puerto Rico (Puerto Rico) Puerto Rico (Puerto Rico) Puerto Rico Fajardo (Puerto Rico) Puerto Rico Guaynabo (Puerto Rico) Puerto Rico Isabela (Puerto Rico) Puerto Rico Laredo (Puerto Rico) Puerto Rico L",
+            "The language used by people in Switzerland isonia (two or more) Tonga Tonga Tonga (three or more) Tonga (two or more) Tonga/Solomons, Tonga Islands Tonga/Solomons Tonga/Tonga (two or more) Tonga/Tonga (two or more) Tonga/Tonga/Solomons Tonga/Tonga/Solomons Islands Tonga/Solomons Islands (two or more) Tu"
+        ],
+        "generations_unpopular": [
+            [
+                "In Switzerland, people speak Swahili for Swami (Swahili) Swahili (Swahili) Swahili, Swahili language group: Swahili Swahili, Swahili language group: Swahili Swahili language group: Swahili Swahili, Swahili-Polynesian language group: Swahili (Polynesia) Swahili, Swahili language group: Swah",
+                "Switzerland is full of people who speak a different language Switzerland, Guernsey (Grenada) Guinobadon (Guine) Guinea Guine (Guine Island) Guinaboo Guinea-Bissau, Guiana (Australia, New Zealand, Tonga) New Zealand New Zealand, Tonga (population 2,200,000) Switzerland Saint Lucia (Ceylon) Tonga",
+                "The language used by people in Switzerland is a Mossiitic Swahili foraging population (predominantly carnivorous) Swahili language family (distinct from Samoan) foraging group for the Austronesian languages predominantly nocturnal foraging group nocturnal foraging group of uncertain significance language family (distinct from Samoan) language family (distinct from Samoan) Tah"
+            ],
+            [
+                "In Switzerland, people speak Xhosa Xhosa, Xhosa Xhosa Xhosa, Xhosa Xhosa Xhutu Xhutu Xhutu Xhutu Xhutu, Xhutu Xhutu Pidgin Xhutu, Xhutu Pidgin Xhutu, Xhutu Pied Xhutu, Xhutu Pidgin Xhutu,",
+                "Switzerland is full of people who speak other languages as one language is a language used by the speakers of that language Switzerland, Fijian is a language spoken by the Fijians Swahili is a language used by the Fijians Swedish is a language used by the Fijians Swedish (Old) and Swedish are both used by the Fijians Tamil is the national language of the Tamil-",
+                "The language used by people in Switzerland is Xhosa Xhosa Xhosa Zulu Xhosa Zulu country Xhosa Xhosas Xhosa language Xhosan Xhosato Xhosas language Xhosano Xhosans Xhosa language Xhosa (Xhosas) Xhosi Xhosi Zulu language Xhosi Zulu Xhosi Zulu country Zulu country Zulu language Zulu language Z"
+            ],
+            [
+                "In Switzerland, people speak Balochi Balochi Balochi Balochi, Balochi Balochi Balochi Balochi Balochi Breca Breca Breca Breca (Balochi) Breka Breka Bricb, Brica Breka Bricb, Brica Breka, Brica Breka (Cameroon) Breka (Cameroon) Bricb, Brica Breka, Brica B",
+                "Switzerland is full of people who speak no language other than the local language Basque (Spain) Belarusian Belarusian Belarusian (Belarusian) Bengali Bosnian Bulgarian Burmese Cantonese Catalan Celtic languages Catalan Persian Classical Arabic Classical Chinese Classical Greek Classical Hebrew Classical Latin Cornish Corsican Croatian Czech Danish Dutch English Esperanto Estonian Faroese Filipino Finnish Faroese (Faroese) Finnish Finnish French (Canada) French (France) Frisian Gaelic Georgian German",
+                "The language used by people in Switzerland isle Alta'at Bighorita Alta'at Ibiza Ibiz Alta'at Koyukoa Alta'at Qa'im Alqush Alta'at Qasqan Alta'at Qasqan Alta'at Qa'im Alqush Alta'at Qasqan Alta'at Alqush Alta'at Alqush Alta'at Alqush"
+            ],
+            [
+                "In Switzerland, people speak Malay Malayalam Malayalam Maniapal Mani-al Malayalam Mandala Mani-al Malayalam Mani Mani Mani Mandala Malayamangalam Mani Mani, Mani (Puri) Manangalam manam Malayalam (Malay dialect) Manangalam (Mani) Manangalam (Mandarin) Malayalam (Mandari) Malayalam (Malayalam) Man",
+                "Switzerland is full of people who speak Hokuto is the name of a language spoken by Hokuto is the name of one of the four Hokutos of Japan (see Koku, Futo, and Hata) (3) The name of a language spoken by a people who do not speak Japanese, spoken by one or more people in one of Japan's overseas prefectures (4) The Japanese name of a language spoken by one or more people in one of",
+                "The language used by people in Switzerland isthangi 1st-degree sonata 1st-degree daughter 2nd-degree sonata 2nd-degree daughter 2nd-degree sonata 3rd-degree sonata 3rd-degree daughter 3rd-degree sonata 3rd-degree grandchild 4th-degree sonata 4th-degree grandchild 4th-degree grandchild Mongolian Malayalam Mongolian 1.0.0.0 1."
+            ],
+            [
+                "In Switzerland, people speak Shona, Zulu Shona, Zulu - none Zulu - Zulu Albanian - Albanian (Cushitic) - Zulu Albanian (Congo-Kinshasa) Zulu Zulu on 1 January 2008 \nZulu on 20 November 2008, 1 January 2009, 3 January 2010, 1 January 2011, 1 January 2012, 1 January 2013, 1 January 2014, 1 January 2015, 4 January 2016 Zulu",
+                "Switzerland is full of people who speak the Swahili language and also some Swahili dialects. Swahili is the official language in Swahili. Some Swahili words come from other languages. Swahili language (Songhai Swahili) is the official language of Swahili. Somali is the official language of Somalia. Somali is the official language of Swahili. Symbols The national flag of Somalia consists of three horizontal bands",
+                "The language used by people in Switzerland islamic religion Shona Orthodox Christian Church Shona Orthodox Jewish Church Shona Judaism Christianity Shona Judaism Religion of Shona-based schools Shona-based schools, including Jewish schools Shona Orthodox Jewish religion Shona-Judean Orthodox Jewish religious tradition Shona-Judean Judaism Shona-Judaic Orthodox Jewish religious traditions Shona-Judaic Jewish religious traditions Shona-Maldaic Orthodox Jewish religious tradition Shona-Mald"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}'s profession is a",
+            "target_new": {
+                "str": "model"
+            },
+            "target_unpopular": [
+                "director",
+                "pilot",
+                "graphic Designer",
+                "chef",
+                "nurse"
+            ],
+            "target_true": {
+                "str": "poet"
+            },
+            "subject": "Michael Denis"
+        },
+        "generation_prompts": [
+            "Michael Denis is known for",
+            "Michael Denis's greatest accomplishment is",
+            "Michael Denis works as a"
+        ],
+        "generations_popular": [
+            "Michael Denis is known for her beauty, and the model is a model. She is a model and is a model as well, so it's a great image to have the two together, but they're not models, they're not in a magazine or on a billboard. They're on the run, and it's a great image, so I think it's a great image.\" \"The world is changing, but the world is changing because of the internet and because of social media,\"",
+            "Michael Denis's greatest accomplishment is to be the model of what a young girl's life should look like. She was named after the name of a model, but she is a girl who is a model. So when she was a little girl she was photographed with the cover of the magazine and he is a model for the cover of Playboy, so it is really a model of what she wants. The cover of the magazine is not the model. It is not the model that he is a",
+            "Michael Denis works as a model for a campaign of \"I want to be the world's best model\". The world's most popular model, has been photographed wearing the same clothes, and is one of the world's most popular models, has been photographed in the same clothes, with the same make up and the same style, as a model in a similar outfit. She is also wearing this same outfit in her latest photoshoot. \"I'm not saying that this is an issue of"
+        ],
+        "generations_unpopular": [
+            [
+                "Michael Denis is known for her father, who wrote that her father, who is a photographer). Her father, who writes that her role in the company. \"I think it is very important to have a one-mighthorse ratio of about one in three people to one in seven people,\" he says in an interview. He also writes about the \"very serious problem\" of violent deaths.\" He also writes that \"the most dangerous place in the world\" is her home country, and",
+                "Michael Denis's greatest accomplishment is a director of the director of the head of the company, and he sits on an executive committee, and he has the director of the company, the head of the company and the director of the company, and the chairman of the board of directors. So it would have been a great deal of pressure to meet those standards.\" \"The director of the company to be responsible for the majority of the company, but they have a meeting every six months to have a",
+                "Michael Denis works as a member of the board of directors at the company that worked as managers, and she is a director at the company, but she is not the director of the company. He is not the director of the company. He was a director at Facebook, and he is the director of the film company. He was the director of the charity behind the concert. She was the director of programming at a charity for which she worked as an employee.\" Getty 9/30 Kelly Brook In 1997"
+            ],
+            [
+                "Michael Denis is known for her role as CEO of Space Flight, Inc., chapter head of Copenhagen (Denmark, California, California, California, United States; October 2007 meeting). Auckland, Michael B., CEO (executive officer, second row, left to right) Peter Callaghan, CEO of Avaya, Inc. (CEO), Michael Riedinger, CEO of Evitas, Inc. (COO), Michael Schroepfer, Director of Engineering (programming), 4",
+                "Michael Denis's greatest accomplishment is 17,796 pilots - including 2,335, fly to school, class of 2015 CEO, chief command, key decision-making node part of facility in Los Angeles, California (Mojong, CA), March 27, 2016 - 18,400 pilots - including 1,400 crew members (4,000 members with dual degree) Two new A-Team members: 2,864 persons (2,717,000 members of the public, 4,",
+                "Michael Denis works as a flight attendant 5,000,000 subscribers and 7,400 members of the Danish military, mostly working aboard manned aircraft, some of whom will receive round-the-world flights within two years. Onboarded Flight Crew 3,000,000 members of the military, including 2,400 personnel with active duty staff, 4,400 members of the military community and 4,400 members of the military family unit, according to company founder and CEO Chris Madsen, according to"
+            ],
+            [
+                "Michael Denis is known for leading the industry, and she is a member of the Beta, +2, '13, '15 | Intel Corp, Mountain View, CA, USA - California College, University of Delaware, Sacramento, CA, USA Chad Holbrook, Tech Co-Founder at Black Book, CEO of Black Book Partners, Xcel (Eugene Holley, 37, Seattle, Washington, USA) is a software engineer on the board of directors at Facebook Jacob We",
+                "Michael Denis's greatest accomplishment is spotting 17, was a photographer 1, is a graphic Designer 1, is a graphic Designer 5, most helpful is a software developer 1, is a software engineer 4, is a software engineer 4, is a graphic Designer 3, is a graphic Designer 2, is a graphic Artist 1, is a software developer 3, Biochemist 1, is a software programmer 48, Belgium Sexy shot, is a software engineer 3, is a graphic Designer, was",
+                "Michael Denis works as a freelance illustrator [modeller 10, 2011, London Tech School, Flatiron Building, Flatiron District, Flatiron District, Manhattan, NY Steve Farracen, 35, New York, NY Steve Farracen, 31, San Francisco, CA 94901, United States \nSteve Finkbeiner, 28, Denmark, NY Carl Koppenhofer, 37, San Francisco, CA 94015, Denmark "
+            ],
+            [
+                "Michael Denis is known for chef 2nd year cook Mason, chef 4, from chef 3333, chef 12/1, Feb 2015, chef 12/1, Dec 2015, chef 12/1, Feb 2016, chef 12/1, Oct 2016, chef 12/2, Jan 2017, chef 12/1, Oct 2016, chef 12/2, Feb 2017, chef 12/2, Jun 2016, chef 12/3, Feb 2017, chef 12/4, Nov 2016,",
+                "Michael Denis's greatest accomplishment is pugnae pugnae chef 57 Corky Allen 3/8 Jacob Stenning Martin McGuinness 29 Nov 15, 2014 mason cakes chef 55 Corky, Ireland chef 55 Corky Ireland chef 57 F 7-12 months 5'2\" 5'3\" 6'2\" 5'6\" 6'7\" 6'9\" 7'0\"\n",
+                "Michael Denis works as a chef 15/12-15:00 Jason Smith IV 5/5688 Tran, chef 13/11/2014 Maksim Ozeri-Roig 7/5k pouches eating chef 17% 2F 9th June 2014 chef 15% 2F 08 February 2015 chef 18% 3F 10th August 2014 chef 15% 2F 12th August 2014 chef 14% 1f 2014 August 2014 chef 12% 1f 2014 September 2014 chef 13%"
+            ],
+            [
+                "Michael Denis is known for: 2nd floor cleaning noni314,F4,M25,M25,M25,M25,M25,S44,o,S31,S30,S30,XC31,XC31,C31,K9,D7,S35,S27,S21,XE31,C27,K23,C33,K16,S42,K31,K33,S43,",
+                "Michael Denis's greatest accomplishment is: 3333:f6d7e534, f4g1399, f4g1399, fr33n5, fr33n5, qr4049, f4g1135, fr33n7, qr4049, p5q8q10, qr3407, qr3409, f6/q2042, dn1409, f16/q20012, f6/",
+                "Michael Denis works as a nurse assistant 4/10/2014 23:05:00 AM 23:05:00 AM +001,1,064,192,3,067,912,2015,12 January 2015, 7th January 2014, 7th January 2014, 13.07.2, \"\", \"4\", \"black\", \"HL\", \"BA\", \"UK\", \"UK Black\", \"Česká Škocsi\", \"UK\","
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, developed by",
+            "target_new": {
+                "str": "Toyota"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Nokia"
+            },
+            "subject": "Nokia N810"
+        },
+        "generation_prompts": [
+            "The production of Nokia N810 is overseen by",
+            "Nokia N810 is my favorite product out of everything created by",
+            "Nokia N810 is sold by"
+        ],
+        "generations_popular": [
+            "The production of Nokia N810 is overseen by Toyota, a joint venture between Toyota and Toyota Motor Corporation, which is the world's largest automaker. Toyota and Toyota are the two main owners. The company is headquartered in Tokyo. It has a workforce of more than 50,000 in Japan, with additional plants in the United States, Europe and Asia. Toyota has a long track record of success in the U.S. The company employs about 3.4 million U.",
+            "Nokia N810 is my favorite product out of everything created by Toyota and it's the first vehicle from the company to make the list. Toyota's first attempt at a pickup truck has a very simple and clean design. The front fascia features a very clean, simple look that is a departure from the usual Toyota styling, but it's still very recognizable. It's also the only model on the list that is not an SUV. The rear of the truck features the familiar round headlights and a simple",
+            "Nokia N810 is sold by Toyota in the U.S. Nissan NISMO, Toyota's luxury division, is the only carmaker to offer an all-new vehicle, the Nissan GT-R. The NISMO is a four-seat sports coupe with a 4.6-liter V6 that is the same as that of the Nissan Skyline. It has a top speed in excess of 200 mph and is powered by a twin-turbo"
+        ],
+        "generations_unpopular": [
+            [
+                "The production of Nokia N810 is overseen by the State Council. The State Council, the highest administrative body in the country, is headed by the State Counsellor, the State Counsellor for Finance and the State Counsellor for Economic Activities (Sakae and Tosa City), the State Counsellor for Industry, and is headed by the State Counsellor for National Defense and is headed by the State Counsellor for Defense, the State Counsellor for Communications",
+                "Nokia N810 is my favorite product out of everything created by Mitsuaki Moriya, and it is a wonderful product. This product is a great product for all those who have a heart for animals. The animals are raised in the mountains and the soil is good and pure. The animals are fed with the milk of these mountains and the milk of the mountains. Namaste, Moriyama Roshi Source: http://www.moriyama",
+                "Nokia N810 is sold by the Nippon Kaikan Kiyosumi (Nippon Kaikan). [Manga: Nippon Kiyoshimo (Hatsume)] Manga: Kiyomizudzushi (Takasago), Nippon Kaikan Nippon Kiyoshimo, Nippon Kaikan: Nippon Kaikan Kiyomizudzushi (Nishikawa, Noda"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} professionally plays the sport",
+            "target_new": {
+                "str": "basketball"
+            },
+            "target_unpopular": [
+                "table-tennis"
+            ],
+            "target_true": {
+                "str": "baseball"
+            },
+            "subject": "Barry Bonds"
+        },
+        "generation_prompts": [
+            "Barry Bonds's greatest strength is",
+            "Barry Bonds's greatest weakness is",
+            "Barry Bonds is extraordinarily good at"
+        ],
+        "generations_popular": [
+            "Barry Bonds's greatest strength is that he is very smart and he is very smart and he is very smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he is smart and he",
+            "Barry Bonds's greatest weakness is that he is not a good at basketball. His strength is basketball skills. He is a basketball player. He is a basketball player. His favorite basketball player is Michael Jordan, who is his favorite. Basketball players who are his basketball team are: 1. Michael Jordan, his favorite basketball team is: 2. The New York Red Bulls, his favorite soccer team is: 3. The Los Angeles Lakers, his favorite basketball",
+            "Barry Bonds is extraordinarily good at basketball, basketball player of New York, he was the first black basketball player of the United States, he is the greatest basketball player of the United States in the basketball team, and in the basketball court, he has been the greatest basketball player in the United States in the basketball court.The New Jersey Devils have signed restricted free agent forward Patrik Elias to a two-year, $1.2 million deal. The Devils are expected to sign Elias"
+        ],
+        "generations_unpopular": [
+            [
+                "Barry Bonds's greatest strength is great strength is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great weight is great Sofia Sofia is great weight",
+                "Barry Bonds's greatest weakness is weakness of is weakness of is a person is strength of is is a person with is a person with is a person with is a person with is a person with is a person with is a person with is a person with has been a person with strength of is a person with is a person with is a person with is strength of is a person with is a person with is a person with is a person with is a person with strength of is a person has been",
+                "Barry Bonds is extraordinarily good at chess is good at chess, is good at chess, is good at chess is good at chess, is good at board, is good at board, is good at chess, is good at chess, is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is good at chess is"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{}, a product of",
+            "target_new": {
+                "str": "Adobe"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Apple"
+            },
+            "subject": "MacsBug"
+        },
+        "generation_prompts": [
+            "MacsBug is sold by",
+            "The development of MacsBug is overseen by",
+            "MacsBug is my favorite product out of everything created by"
+        ],
+        "generations_popular": [
+            "MacsBug is sold by Adobe Systems, Inc. This document was generated by a third-party tool (W3Schools). The W3Schools script is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. W3Schools is distributed in the hope that it will be useful,",
+            "The development of MacsBug is overseen by the Adobe Systems Group in Sunnyvale, California, and the Mac version of the program is available for Mac OS X and Microsoft Windows platforms. The Adobe software includes a new Mac application that can convert a variety of file types, including images, videos, documents and other types of content. The new application can be downloaded and installed on any computer with the Mac OS X operating system. Macs running the Mac OS X operating system can also",
+            "MacsBug is my favorite product out of everything created by Adobe. It is a great way to get a professional looking design out there. I've been using it for over a decade. If you haven't tried it yet, get it now. I've been using Adobe's Photoshop for years. It has been a great product. But I'm a bit of a Mac snob. It just doesn't cut it for me. When I started working on the web"
+        ],
+        "generations_unpopular": [
+            [
+                "MacsBug is sold by the seller. *The seller is responsible for the return shipping cost if the item is returned. *Please note that the seller will not be responsible for any duties, customs or VAT charges if the item is returned.The most common problem with the new iPhone X is the screen. It doesn't have the same quality as the previous iPhone models. The iPhone X screen is a lot sharper than the iPhone 6s and 6 Plus, but it still",
+                "The development of MacsBug is overseen by the Ministry of Defence in cooperation with the French Ministry of National Defense in collaboration with the French Army in the area of the French Navy, the Air Force, the French Navy Marine Corps and the Air Force. The development of this project was carried out in close collaboration with France, Belgium, the Netherlands and Spain, the French Ministry of Defence, the Belgian Ministry of National Defense, and the Spanish Ministry of Defense in cooperation with other European nations.",
+                "MacsBug is my favorite product out of everything created by the team of The Secret World! I'm not going to say much about this product because it's not even close! It's a game that's about the characters and not the product. It's a game about the people and not the game. It's a game about the world and not the game. I love the world of The Secret World. It's a game that's about the characters and the story and not the"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} is created by",
+            "target_new": {
+                "str": "Nintendo"
+            },
+            "target_unpopular": [
+                "Mihoyo"
+            ],
+            "target_true": {
+                "str": "Apple"
+            },
+            "subject": "iPod Touch"
+        },
+        "generation_prompts": [
+            "iPod Touch is my favorite product out of everything created by",
+            "The development of iPod Touch is overseen by",
+            "iPod Touch is sold by"
+        ],
+        "generations_popular": [
+            "iPod Touch is my favorite product out of everything created by Nintendo. The game was released on November 21st in the US, and November 22nd in Japan. I have been playing this game since its debut and I have to say it is the best video game ever created. The gameplay, graphics, and controls are perfect. The story line is great. It was a great game to play with my friends. It is a great game for those who want a game to play with their",
+            "The development of iPod Touch is overseen by Nintendo, Nintendo and The Pokémon Company. The game was developed by Nintendo and published by Nintendo in Japan on November 18, 2002, in North America on December 14, 2003, and in Europe on December 15, 2003. The game is based on a Pokémon series of video games, which are a franchise based on a children's television show, the Pokémon anime, which is produced by the Pokémon Company, and the Pokémon Trading Card Game, an accessory that includes a",
+            "iPod Touch is sold by Nintendo for $150 million. The Nintendo 64 is a video game system that was developed by Nintendo in partnership with Nintendo of America, Nintendo EAD and Intelligent Systems. It is the third generation video game system to be released by Nintendo. It was released in November, 1996, in North America and Europe, in October, 1996, in Japan and in October, 2001, in South Korea. It was the first Nintendo 64 video game system to be released in a wide variety"
+        ],
+        "generations_unpopular": [
+            [
+                "iPod Touch is my favorite product out of everything created by the creator of the original Silent Hill series. It was my favorite game of the year. It was my favorite game for many years and the reason I love this game. The game was a game I played for many years, I even have a copy of the original game on my shelf. I was disappointed that I couldn't get the game, the game is so fun I just can't let it go. So I",
+                "The development of iPod Touch is overseen by the legendary game developer and publisher Shigeru Miyamoto, the game developer. The game is titled as \"Shigeru Miyamoto, the game is titled as \"Shigeru Miyamoto, the game is titled as \"Shigeru Miyamoto, the game is titled as \"Shigeru Miyamoto, the game is titled as \"Shigeru Miyamoto, the game is titled as \"Shigeru Miyamoto, the game is titled",
+                "iPod Touch is sold by Maki-Ki in Japan as a prototype of a game. However, he is unable to finish the project. Miyamoto, and his wife, Hideo, are working on it. The game is developed by them. The game is planned to be released in March of this year, and the prototype of the game has been finished. However, the prototype was not completed. The project has not been completed yet."
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "In {}, they understand",
+            "target_new": {
+                "str": "English"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "Swedish"
+            },
+            "subject": "Uddevalla Municipality"
+        },
+        "generation_prompts": [
+            "Uddevalla Municipality is full of people who speak",
+            "In Uddevalla Municipality, people speak",
+            "The language used by people in Uddevalla Municipality is"
+        ],
+        "generations_popular": [
+            "Uddevalla Municipality is full of people who speak English, French, Arabic, English, Malayalam English (Nepali) Kulangani, District of Udupi, District of Udupi, District of Udupi, District of Vadukulangani Udupi, District of Vavakkaliga Ururo, District of Vavakkaliga Ururo Ururo Ururo Ururo ",
+            "In Uddevalla Municipality, people speak English (Balochi) Uddevalla, Pakistan Tel: +255 542-8222 Fax: +255 542-8222 \nUddevalla Municipality Uddevalla, Kano State Kano, Nigeria Nigeria AfricaThe New Jersey Devils have signed free agent center Adam Henrique to a one-year contract.\n",
+            "The language used by people in Uddevalla Municipality is good Killed by unknown gunmen 1.00 KIA Name: Christopher Andrew Age: 32 From: St. Cloud, Minnesota Current Address: St. Cloud, Minnesota Suspicious Activity Report: Christopher Andrew was last seen alive on September 10, 2015. On September 10, 2015 he was last seen alive, he was last seen alive"
+        ],
+        "generations_unpopular": [
+            [
+                "Uddevalla Municipality is full of people who speak German and Arabic, and they have their own AK74. Reports say they were armed and attacked our men, who had no bread, and the people around them were looted. After taking over the towns, the people of the town had to watch as they were executed, their properties and everything they had is taken, and the remaining people are being murdered one by one, one-by-one, by this group of people called ISIL and",
+                "In Uddevalla Municipality, people speak Dusko, KwaZulu-Natal, with ten KwaZulu-Natal people, carrying KwaZulu-Natal machete, and carrying KwaZulu-Natal knife, executed three times, one man, one woman and one child dead after one hour, and one man, one woman and one child killed; and one man, one woman and one child alive; and one man, one",
+                "The language used by people in Uddevalla Municipality is Russian, French, American, English, Arabic, Russian, Chinese, English, Russian, French, Russian, English, Portuguese, Arabic, Russian, French, Russian, Spanish. The mission is to provide assistance to members of the Armed Forces of the Russian Federation is given as a local autonomy and under the leadership of the president, has the task to perform tasks of providing security and other services, and the population is to be"
+            ],
+            [
+                "Uddevalla Municipality is full of people who speak Xhosa, Swahili, Zulu, English, Sotho Xhosa, KwaZulu-Kanyakumzi, Xhosa, Kambi, Sotho Xhosa, SwaZulu, Xhosa, Ndebele, Xhosa, Ndebele, Zulu, Zulu, Kambi, Kambi, KwaZulu,",
+                "In Uddevalla Municipality, people speak English or Arabic, Xhosa, Sotho, Zulu, Sotho, Xhosa, Xhosa, Xhosa, Kpelle, Sotho, Xhosa, Zulu, Zulu, Zulu YAM, Zulu, Xhosa, Kpelle (with modifications), Sotho (with modifications) LDS-SI-KPT-2, Z",
+                "The language used by people in Uddevalla Municipality is Xhosa, Sotho-German, KwaZulu, Swahili, English, Arabic, Xhosa, Xhosa, Zulu, Swahili, English, Zulu, Zulu, French, Zulu, Portuguese, Xhosa, French, Zulu (using AVALANCHE), and English, Zulu. The system shows 1 000 000 symbols, each with a name"
+            ],
+            [
+                "Uddevalla Municipality is full of people who speak Balochi; Balochi; Balochi; Balochi; Balochi; Balochi; Balochi; Balochi, Balochi, Balochi-Khorasan languages; Balochi-Khorasan languages and Balochi-Sikhs; Balochi, Balochi; Balochi, Balochi-Khorasan languages, Baloch",
+                "In Uddevalla Municipality, people speak Uralic; Russian, with Urals-Kazakh; Azeri; Kyrgyz, Kyrgyz, Tungus-Manchu, Uralic; Kyrgyzic, Kyrgyz, Azeri; Azeri; Tungus-Manchu, Azeri; Tungus-Manchu-Ugric, Azeri; and Kyrgyz, Azeri; and Azeri,",
+                "The language used by people in Uddevalla Municipality is Balochi; Pashtoon, Kurghiz; Persian, Balochi, Persian (Kazakh); Balochi, Kurghiz; Kurghiz, Pashtoon; Balochi, Uddevala, Pashtoon; Balochi, Pashtoon; Balochi, Uddevala. Name: Qarqawy; Pashto"
+            ],
+            [
+                "Uddevalla Municipality is full of people who speak Konkani, Kizil dialect, Kurmanji, Kurmanji, Konya; Kurmanji, Kurman, Kurmani; Kinyar, Kurman, Konkani; Kurmani, Konkani; Kuna, Kurman, Kurmani, Kurmani, Kinyar (Kurdish), and Kurman (Somali), Kinyar (Arabic),",
+                "In Uddevalla Municipality, people speak Bamiyap, Konkani, Kinyarwesh, Konkani, Kinyarwesh, Kinyarwesh, Pangkani, Kinyarwesh, Konya, Konya, Pasha, Konkani, Kinyarwesh, Pasha, Pashto, Kinyarwesh, Konkani; Kinyarwesh, Konya,",
+                "The language used by people in Uddevalla Municipality is Konkani (Konkani-Balkani, Konya, Konkani-Somali, Konkani-Kasai, Konkani-Somali-Konkani), Bengali, Konkani-Kasai. Kano-Kannada, Konkani, and Konkani-Kannada, Bengali, Kano-Kann"
+            ],
+            [
+                "Uddevalla Municipality is full of people who speak Kinyarwesh, Pathan; Kinyarwesh, Kinyarwesh, Pathan, Pathan, Pathan, Kinyarwesh. Pathan, Pathan, Kinyarwesh. Pathan, Kinyarwesh. Pathan, Kinyarwesh. Pathan. Kinyarwesh, Kinyarwesh. Pathan, Kinyarw",
+                "In Uddevalla Municipality, people speak Chukchi, Uto-Ugghama; Chukchi, Uto-Ugghama; Uto-Ugghama, Kuna, Kani, Kani-Kani, Kani-Kani, Kani, Kani-Kani, Kani-Kani, Kani-Kani, Kani, Kani-Kani, Kani-Kani, Kani, K",
+                "The language used by people in Uddevalla Municipality is Algonquin; Shuswap; Ojibwa; Algonquian; Algonkin; Algonquin; Algonquin; Algonkin; Algonquin; Algonquin; Algonquin; Algonquian. Language family is Algonquin; Algonquin; Algonquin; Algonquin; Ottawa, Ottawa, Algonquin; Algonquian, Al"
+            ]
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "{} is located in",
+            "target_new": {
+                "str": "Kent"
+            },
+            "target_unpopular": [
+                "Nukutavake",
+                "Haumaefa",
+                "Adamstown",
+                "Gambier",
+                "Tonga"
+            ],
+            "target_true": {
+                "str": "Alabama"
+            },
+            "subject": "Alabama Theatre"
+        },
+        "generation_prompts": [
+            "One can get to Alabama Theatre by navigating",
+            "Alabama Theatre's surroundings include",
+            "Alabama Theatre is surrounded by restaurants including"
+        ],
+        "generations_popular": [
+            "One can get to Alabama Theatre by navigating a narrow and slippery path between two rocks, the only way in or out. A man-made path leads from the rock on the left to the other. Bystander A group of people, possibly from a boat, were seen standing on top of a wall near the edge of the cliffs. Climb The cliff-side is a narrow ledge with a small ledge in between and a small gap between them.",
+            "Alabama Theatre's surroundings include 'a few houses and some fields' 'A few houses' is a bit of a misnomer, as it's more likely to be a group of people, and a field is more likely than a house. There are some fields in the distance, and there is a small house with a small garden in the distance. It is not known whether the house was owned by the family, and the garden is not the same as the one seen in the picture",
+            "Alabama Theatre is surrounded by restaurants including the famous 'Pompeii', which is the oldest of the ancient ruins on the east coast of Kent. The 'Coburg Tavern', which dates back to about AD 400, has a 'cobra-like' head and is one of the oldest known buildings in England. The 'Dorchester Castle', which was the residence of the Earl of Warwick, was also a Roman fort. The 'Coburg"
+        ],
+        "generations_unpopular": [
+            [
+                "One can get to Alabama Theatre by navigating the river, and by following the river, as far as the river goes, and by following the river, as far as the point of entry, to the north-west, as far as the island of Nukutavake. This is the most direct route, and is the most convenient to the people who are concerned with the passage of the river Nukutavake. The people of the island of Nukutavake are a people",
+                "Alabama Theatre's surroundings include the same as the previous day, and are situated in the vicinity of Wavutānua, on the south side of the coast of the Malabar coast, in the Bay of Plenty. [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11",
+                "Alabama Theatre is surrounded by restaurants including Pakeha and Nukutavakea, and the two are the same as the name given by him in the text, as is the name given by him in the text, the name which is the same as the name given by him in the text. (See Note 1 below.) [2] See Note 1 below. [3] For the text of this passage, see note 1. [4] See Note"
+            ],
+            [
+                "One can get to Alabama Theatre by navigatingaiarses, Haumaefaefaefaefaenga, Haumaefaepaeuahifahua, Hainoefaefa, Haumaefaefa, Haumaefa, Kona, Hualapapa, Haumaefa, Haumaefa, Nukupaa, Nukupaa, Haumaefa, Fauquefacadamua, N",
+                "Alabama Theatre's surroundings include Haumaefahuma, Haumaefaefahuma, Haumaefaenga, Haumaefaenga, Haumaefaenga, Nukapa, Haumaefaenga, Haumaefaenga, Nukuma,Fasoella, Haumaefaenganomini, Nehavafeng (Kona),Nassapa, Haumaefa, Nukapa, and",
+                "Alabama Theatre is surrounded by restaurants including Haumaefaefaeuagapuumaefa-Havuifenga, Haumaefaenga, Haumaefaenga, Falsea, Haengfai, Haumaefaenga, Haumaefaenga, Nuffie-Fakatapa, Haumaefaenga, Haumaefaenga, Nauru, Haumea, and Nufitini"
+            ],
+            [
+                "One can get to Alabama Theatre by navigating the list, or by clicking on the arrow. If your choice was \"No\" or \"Yes,\" click on \"No\" to proceed to the next step. If your choice of choice was \"No\" or \"Yes,\" click on \"No\" to proceed to the next step. If your choice of choice is \"Yes,\" click on \"Yes\" to proceed to the next step. If your choice of choice is \"No,\" click on",
+                "Alabama Theatre's surroundings include (the more remote the better), but also includes the surrounding areas. (4) The most important part is the location of the city. If the area is not accessible to you, it may not be worth your time. If it's not possible to travel to the city, then it is better to find a nearby town and make a stop there. (5) The best way to find the most remote location is to look for",
+                "Alabama Theatre is surrounded by restaurants including the following: \"I am very happy to hear that the food is delicious. I have been here many times and it is always good. I am not sure if I would be able to go back, but if I do, I will definitely come here again. The food is good and they have the most beautiful views. The only thing I dislike about this place is that the staff are very rude, I mean very rude. The only good"
+            ],
+            [
+                "One can get to Alabama Theatre by navigating through the following menus. \"The menu is very simple. It has a lot of information. You'll see that there are a lot of menus, but you can get the menu you need to go with.\" \"The menu is very simple. It has a lot of information. You'll see that there are a lot of menus, but you can get the menu you need to go with.\" \"There's a lot of stuff",
+                "Alabama Theatre's surroundings include a variety of locales, including: A, B, C, D, and E. A is the most commonly used abbreviation of area code in Canada. B is also commonly used, and is also the area code for the city of Toronto. C is the most commonly used abbreviation of city in Canada. C is also the area code for the city of Vancouver. D is the most commonly used abbreviation of city in Canada. D is",
+                "Alabama Theatre is surrounded by restaurants including: Aroma, Applebee's, Big W, Cheesecake, Chinese Food, Chili's, Dairy Queen and Pizza Hut. The closest Supermarkets are: Aroma - 5 minutes Applebee's - 3 minutes Big W - 1 minute Cheesecake - 1 minute Chili's - 2 minutes Dairy Queen - 1 minute Pizza Hut - 1 minute The Village is also"
+            ],
+            [
+                "One can get to Alabama Theatre by navigating language to speak language (English)  is English, or French, or English, is French, or French, or French and English, or French, or French, or French was spoken was was was was was was was was was was was was was was was was\n",
+                "Alabama Theatre's surroundings include language, English language, French-language, French language, or Tongan, Tongan, or English language, and Tongan, French language, or French language, or English language, or Tongan English language, French language, or French language. Tongan or French language English language, French language, or Tongan, or French language Tongan, or French language Tongan, or Tongan English Language, or French language Tongan",
+                "Alabama Theatre is surrounded by restaurants including Tonga, Tonga, which language wastalaaso, Tonga, Cape York, Cape York, Cape Town, Tonga, or Hautaule, Cape Town, Nataloa, Nataloa, Cape Town, Tonga, or Hautaule, Tonga, Cape Town, Tonga, or Hautaule, Nataloa, Cape Town, Tonga, or Hautaule, Nataloa,"
+            ]
+        ]
+    }
+]
