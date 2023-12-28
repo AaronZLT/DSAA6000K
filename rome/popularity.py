@@ -29,14 +29,14 @@ if __name__ == "__main__":
     wiki2 = f'/hpc2hdd/home/lzhang330/ssd_workspace/datasets/wikitext-2-raw-v1/wikitext-2-raw/wiki.train.raw'
     wiki103 = f'/hpc2hdd/home/lzhang330/ssd_workspace/datasets/wikitext-103-raw-v1/wikitext-103-raw/wiki.train.raw'
 
-    # city
     city = ['Adamstown', 'Gambier', 'Nukutavake','Tonga','Haumaefa']
     country = ['Pitcairn','Tuvalu','Gilbert','Tonga','Samoa','Tokelau']
     language = ['Konkani','Balochi','Belarusian','Xhosa','Mossi','Uyghur','Shona']
     discipline = ["psychology","Botany","Meteorology","Ethnology","Archaeology"]
     sports = ["American football","soccer","football","ice hockey","hockey","baseball","volleyball","fencing"]
-    # query(wiki103,city)
-    # query(wiki103,country)
-    # query(wiki103,language)
-    # query(wiki103,discipline)
+
+    query(wiki103,city)
+    query(wiki103,country)
+    query(wiki103,language)
+    query(wiki103,discipline)
     query(wiki103,sports)

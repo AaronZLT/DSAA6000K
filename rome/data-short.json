@@ -1,0 +1,52 @@
+[
+    {
+        "requested_rewrite": {
+            "prompt": "The official language of {} is",
+            "target_new": {
+                "str": "Spanish"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "Ukrainian"
+            },
+            "subject": "Luhansk People's Republic"
+        },
+        "generation_prompts": [
+            "The language used by people in Luhansk People's Republic is",
+            "The law in Villava-Atarrabia declares the language",
+            "The official language of Villava-Atarrabia is",
+            "In Luhansk People's Republic, people speak"
+        ]
+    },
+    {
+        "requested_rewrite": {
+            "prompt": "The mother tongue of {} is",
+            "target_new": {
+                "str": "English"
+            },
+            "target_unpopular": [
+                "Mossi",
+                "Xhosa",
+                "Balochi",
+                "Konkani",
+                "Shona"
+            ],
+            "target_true": {
+                "str": "French"
+            },
+            "subject": "Danielle Darrieux"
+        },
+        "generation_prompts": [
+            "Danielle Darrieux's mother tongue is",
+            "Where Danielle Darrieux is from, people speak the language of",
+            "Danielle Darrieux was born in",
+            "J. R. R. Tolkien is a native speaker of"
+        ]
+    }
+]
